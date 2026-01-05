@@ -42,12 +42,9 @@
       <fieldset id="tagFilter" class="tags" aria-label="Filter by tags">
         <legend>Tags (OR logic)</legend>
         <!-- Edit these to match your controlled vocabulary -->
-        <label><input type="checkbox" value="diamond"> diamond</label>
-        <label><input type="checkbox" value="boron-doped"> boron-doped</label>
-        <label><input type="checkbox" value="TLM"> TLM</label>
-        <label><input type="checkbox" value="device-fabrication"> device-fabrication</label>
-        <label><input type="checkbox" value="dataset"> dataset</label>
-        <label><input type="checkbox" value="review"> review</label>
+        <label><input type="checkbox" value="Alphavoltaics"> Alphavoltaics</label>
+        <label><input type="checkbox" value="Betavoltaics"> Betavoltaics</label>
+        <label><input type="checkbox" value="Gammavoltaics"> Gammavoltaics</label>
       </fieldset>
 
       <div id="count" class="muted"></div>
@@ -63,19 +60,19 @@
     <section aria-labelledby="cite-title">
       <h2 id="cite-title">How to cite this website</h2>
       <p>
-        Author (Year). <em>Bibliography website</em>. Last updated
-        <span id="lastUpdatedCite">2026-01-01</span>.
-        URL: <span id="siteUrl"></span>.
+        G. R. Mackenzie (2026). <em>The Radiovoltaics Bibliography</em>.
+        URL: <span id="siteUrl"></span>. Update of: [date]. Accessed: [date].
       </p>
-      <p><strong>APA example:</strong><br>
-        Mackenzie, R. (2026). <em>Interface Analysis Centre bibliography</em>. Last updated 2026-01-01. https://example.org
+      <p><strong>Example BiBTeX snippet:</strong><br>
+        @misc{Mackenzie2026,
+              author = {Mackenzie, G. R.},
+              title = {The Radiovoltaics Bibliography},
+              howpublished = {\url{http://www.radiovoltaics-bibliography.info}},
+              note = {Update of: YYYY-MM-DD. Accessed: YYYY-MM-DD}
+              }
       </p>
     </section>
   </main>
-
-  <footer class="container">
-    <small>&copy; 2026 Your Name.</small>
-  </footer>
 
   <script src="script.js"></script>
 </body>

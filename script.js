@@ -41,31 +41,66 @@ function populateYears(entries) {
   }
 }
 
+
 function render(entries) {
-  const container = $('#entries');
+  const container = document.getElementById('entries');
   container.innerHTML = '';
+
   for (const e of entries) {
+    const el = document.createElement('article');
+    el.className = 'entry';
+    el.setAttribute('role', 'listitem');
+
+    // Title
+    const title = document.createElement('div');
+    title.className = 'entry-title';
+    title.textContent = e.title || '(No title)';
+
+    // Meta
+    const meta = document.createElement('div');
+    meta.className = 'entry-meta';
+    meta.textContent = [e.author, e.journal, e.year].filter(Boolean).join(' • ');
+
+    // Links (URL, DOI, BibTeX id)
     const links = document.createElement('div');
     links.className = 'entry-links';
 
     const parts = [];
+
     if (e.url) {
-      parts.push(
-        `<a href="${e.url}" target="_blank" rel="noopener noreferrer">URL</a>`
-      );
+      const a = document.createElement('a');
+      a.href = e.url;
+      a.textContent = 'URL';
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      parts.push(a);
     }
+
     if (e.doi) {
-      // Use the DOI resolver and show either 'DOI' or the DOI string itself as link text.
-      parts.push(
-        `<a href="https://doi.org/${encodeURIComponent(e.doi)}" target="_blank" rel="noopener noreferrer">DOI</a>`
-      );
+      const a = document.createElement('a');
+      a.href = `https://doi.org/${encodeURIComponent(e.doi)}`;
+      a.textContent = 'DOI';
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      parts.push(a);
     }
+
     if (e.id) {
-      parts.push(`<span title="BibTeX key">${e.id}</span>`);
+      const span = document.createElement('span');
+      span.title = 'BibTeX key';
+      span.textContent = e.id;
+      parts.push(span);
     }
-    links.innerHTML = parts.join(' &nbsp;|&nbsp; ');
 
+    // Join with separators: " | "
+    for (let i = 0; i < parts.length; i++) {
+      links.appendChild(parts[i]);
+      if (i < parts.length - 1) {
+        links.appendChild(document.createTextNode(' | '));
+      }
+    }
 
+    // Tags row
     const tagRow = document.createElement('div');
     (e.tags || []).forEach(t => {
       const b = document.createElement('span');
@@ -74,14 +109,18 @@ function render(entries) {
       tagRow.appendChild(b);
     });
 
+    // Assemble entry
     el.appendChild(title);
     el.appendChild(links);
     el.appendChild(meta);
     el.appendChild(tagRow);
+
     container.appendChild(el);
   }
-  $('#count').textContent = `${entries.length} item(s)`;
+
+  document.getElementById('count').textContent = `${entries.length} item(s)`;
 }
+
 
 let ALL = [];
 
