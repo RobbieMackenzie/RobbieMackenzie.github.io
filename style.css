@@ -45,8 +45,4 @@ input[type="search"], select {
 /* Settings for desktop screens */
 @media (min-width: 720px) {
   .entry { display: grid; grid-template-columns: 1fr auto; gap: .5rem 1rem; align-items: start; }
-  .container {
-      max-width: 95vw; /* 95% of the viewport width */
-    }
-
 }
