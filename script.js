@@ -1,19 +1,43 @@
 
 // ===== Config you update monthly =====
 const LAST_UPDATED = '2026-01-01'; // ISO date string
-const DATA_URL = 'references.json'; // CSL-JSON with `tags` merged in (see merge-tags.mjs)
+const DATA_URL = 'radiovoltaics-bibliography.json'; // CSL-JSON with `tags` merged in (see merge-tags.mjs)
 
 // ===== Utilities =====
 const $ = sel => document.querySelector(sel);
 const norm = s => (s || '').toString().toLowerCase().trim();
 const siteUrl = () => location.href.replace(location.hash,'').replace(location.search,'');
 
-// Set dates/URL
-$('#lastUpdated').textContent = LAST_UPDATED;
-$('#lastUpdatedCite').textContent = LAST_UPDATED;
-$('#siteUrl').textContent = siteUrl();
+// Set dates/URL (guard elements in case some pages don't include them)
+const _el = id => document.querySelector(id);
+const _setText = (id, val) => { const el = _el(id); if (el) el.textContent = val; };
+_setText('#lastUpdated', LAST_UPDATED);
+_setText('#lastUpdatedCite', LAST_UPDATED);
+_setText('#siteUrl', siteUrl());
 
 // ===== Data loading & normalization =====
+// Format author names as "Initials Surname" and apply "et al." for >3 authors
+function initialsFrom(given) {
+  if (!given) return '';
+  // remove periods, split on whitespace, take first letter of each part
+  const parts = String(given).replace(/\./g, '').split(/\s+/).filter(Boolean);
+  return parts.map(p => (p[0] || '').toUpperCase() + '.').join(' ');
+}
+
+function formatAuthorObj(a) {
+  const family = a?.family || '';
+  const given = a?.given || '';
+  const initials = initialsFrom(given);
+  return (initials ? `${initials} ${family}` : family).trim();
+}
+
+function formatAuthors(list) {
+  if (!Array.isArray(list)) return '';
+  const formatted = list.map(formatAuthorObj).filter(Boolean);
+  if (formatted.length > 3) return `${formatted[0]} et al.`;
+  return formatted.join('; ');
+}
+
 async function loadData() {
   const res = await fetch(DATA_URL, { cache: 'no-store' });
   const data = await res.json(); // CSL-JSON array
@@ -21,7 +45,7 @@ async function loadData() {
     id: e.id || '',
     type: (e.type || '').toLowerCase(),
     title: e.title || '',
-    author: (e.author || []).map(a => [a.family, a.given].filter(Boolean).join(', ')).join('; '),
+    author: formatAuthors(e.author || []),
     year: (e.issued?.['date-parts']?.[0]?.[0] || '').toString(),
     doi: e.DOI || '',
     url: e.URL || '',
@@ -52,7 +76,12 @@ function render(entries) {
 
     const title = document.createElement('div');
     title.className = 'entry-title';
-    title.textContent = e.title || '(No title)';
+    if (e.doi) {
+      title.innerHTML = `<a href="https://doi.org/${e.doi}">${e.title}</a>`;
+    }
+    else {if (e.url) {
+      title.innerHTML = `<a href="${e.url}">${e.title}</a>`;
+    }}
 
     const meta = document.createElement('div');
     meta.className = 'entry-meta';
@@ -61,9 +90,7 @@ function render(entries) {
     const links = document.createElement('div');
     links.className = 'entry-links';
     const parts = [];
-    if (e.url) parts.push(`<a href="${e.url}">URL</a>`);
-    if (e.doi) parts.push(`<a href="https://doi.org/${e.doi}">DOI</a>`);
-    if (e.id) parts.push(`<span title="BibTeX key">${e.id}</span>`);
+    
     links.innerHTML = parts.join(' &nbsp;|&nbsp; ');
 
     const tagRow = document.createElement('div');

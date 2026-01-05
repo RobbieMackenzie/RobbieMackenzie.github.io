@@ -76,7 +76,7 @@
   {
     "DOI": "10.1109/TNS.2012.2209677",
     "ISSN": "00189499",
-    "abstract": "This paper represents the first attempt to discuss the use of an artificial single-crystal diamond as a new microdosimeter. The Diamond MicroDosimeter (DMD) detecting region is a thin layer of highly controlled thickness $<$ 5$\\mu$m and high purity intrinsic monocrystalline diamond grown over a backing boron doped monocrystalline diamond. This viable, small, compact and user-friendly device is able to obtain spectra of the energy deposition in sensitive volumes of the order of micrometer. The paper reports the first experimental tests performed to measure the dose distribution in terms of lineal energy and the simulation performed by the Monte Carlo code FLUKA to optimize the design of the new DMD. Advantages and shortcomings of the DMD are discussed. © 2012 IEEE.",
+    "abstract": "This paper represents the first attempt to discuss the use of an artificial single-crystal diamond as a new microdosimeter. The Diamond MicroDosimeter (DMD) detecting region is a thin layer of highly controlled thickness $<$ 5$\\u00b5m and high purity intrinsic monocrystalline diamond grown over a backing boron doped monocrystalline diamond. This viable, small, compact and user-friendly device is able to obtain spectra of the energy deposition in sensitive volumes of the order of micrometer. The paper reports the first experimental tests performed to measure the dose distribution in terms of lineal energy and the simulation performed by the Monte Carlo code FLUKA to optimize the design of the new DMD. Advantages and shortcomings of the DMD are discussed. © 2012 IEEE.",
     "accessed": {
       "date-parts": [
         [

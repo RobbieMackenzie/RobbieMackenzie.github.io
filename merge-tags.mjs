@@ -1,7 +1,7 @@
 
 import fs from 'fs';
 
-const refs = JSON.parse(fs.readFileSync('references.json', 'utf8'));
+const refs = JSON.parse(fs.readFileSync('radiovoltaics-bibliography.json', 'utf8'));
 const tags = JSON.parse(fs.readFileSync('tags.json', 'utf8'));
 
 const allowed = new Set(tags.allowedTags || []);
@@ -30,9 +30,9 @@ const out = refs.map(e => {
 const refIds = new Set(refs.map(e => e.id));
 for (const key of Object.keys(byId)) {
   if (!refIds.has(key)) {
-    console.warn(`WARNING: tags contain id "${key}" but no such entry exists in references.json`);
+    console.warn(`WARNING: tags contain id "${key}" but no such entry exists in radiovoltaics-bibliography.json`);
   }
 }
 
-fs.writeFileSync('references.json', JSON.stringify(out, null, 2));
-console.log(`Merged tags into references.json (${out.length} entries).`);
+fs.writeFileSync('radiovoltaics-bibliography.json', JSON.stringify(out, null, 2));
+console.log(`Merged tags into radiovoltaics-bibliography.json (${out.length} entries).`);
