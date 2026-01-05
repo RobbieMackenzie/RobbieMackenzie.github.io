@@ -1,5 +1,35 @@
 [
   {
+    "author": [
+      {
+        "family": "Alam",
+        "given": "Tariq R"
+      },
+      {
+        "family": "Pierson",
+        "given": "Mark A"
+      }
+    ],
+    "container-title": "Journal of Energy Power Sources",
+    "id": "Alam2016",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "betavoltaic battery,nuclear battery,radioisotope battery",
+    "page": "11-41",
+    "title": "Principles of Betavoltaic Battery Design",
+    "type": "article-journal",
+    "volume": "3",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1002/pssa.201532214",
     "ISBN": "0033-8419",
     "ISSN": "18626319",
@@ -74,59 +104,707 @@
     ]
   },
   {
-    "DOI": "10.1109/TNS.2012.2209677",
-    "ISSN": "00189499",
-    "abstract": "This paper represents the first attempt to discuss the use of an artificial single-crystal diamond as a new microdosimeter. The Diamond MicroDosimeter (DMD) detecting region is a thin layer of highly controlled thickness $<$ 5$\\u00b5m and high purity intrinsic monocrystalline diamond grown over a backing boron doped monocrystalline diamond. This viable, small, compact and user-friendly device is able to obtain spectra of the energy deposition in sensitive volumes of the order of micrometer. The paper reports the first experimental tests performed to measure the dose distribution in terms of lineal energy and the simulation performed by the Monte Carlo code FLUKA to optimize the design of the new DMD. Advantages and shortcomings of the DMD are discussed. © 2012 IEEE.",
+    "DOI": "10.1002/pssa.201532214",
+    "ISBN": "0033-8419",
+    "ISSN": "18626319",
+    "PMID": "16714465",
+    "author": [
+      {
+        "family": "Bormashov",
+        "given": "Vitaly"
+      },
+      {
+        "family": "Troschiev",
+        "given": "Sergey"
+      },
+      {
+        "family": "Volkov",
+        "given": "Alexander"
+      },
+      {
+        "family": "Tarelkin",
+        "given": "Sergey"
+      },
+      {
+        "family": "Korostylev",
+        "given": "Eugeniy"
+      },
+      {
+        "family": "Golovanov",
+        "given": "Anton"
+      },
+      {
+        "family": "Kuznetsov",
+        "given": "Mikhail"
+      },
+      {
+        "family": "Teteruk",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Kornilov",
+        "given": "Nikolay"
+      },
+      {
+        "family": "Terentiev",
+        "given": "Sergey"
+      },
+      {
+        "family": "Buga",
+        "given": "Sergey"
+      },
+      {
+        "family": "Blank",
+        "given": "Vladimir"
+      }
+    ],
+    "container-title": "physica status solidi (a)",
+    "id": "Bormashov2015a",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "betavoltaics,nuclear microbatteries,Schottky diodes,synthetic diamond",
+    "page": "2539-2547",
+    "title": "Development of nuclear microbattery prototype based on Schottky barrier diamond diodes",
+    "type": "article-journal",
+    "volume": "212",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/j.diamond.2018.03.006",
+    "ISSN": "09259635",
     "accessed": {
       "date-parts": [
         [
           2020,
-          7,
-          25
+          9,
+          29
         ]
       ]
     },
     "author": [
       {
-        "family": "Rollet",
-        "given": "Sofia"
+        "family": "Bormashov",
+        "given": "V. S."
       },
       {
-        "family": "Angelone",
-        "given": "Maurizio"
+        "family": "Troschiev",
+        "given": "S. Yu"
       },
       {
-        "family": "Magrin",
-        "given": "Giulio"
+        "family": "Tarelkin",
+        "given": "S. A."
       },
       {
-        "family": "Marinelli",
-        "given": "Marco"
+        "family": "Volkov",
+        "given": "A. P."
       },
       {
-        "family": "Milani",
-        "given": "Enrico"
+        "family": "Teteruk",
+        "given": "D. V."
       },
       {
-        "family": "Pillon",
-        "given": "Mario"
+        "family": "Golovanov",
+        "given": "A. V."
       },
       {
-        "family": "Prestopino",
-        "given": "Giuseppe"
+        "family": "Kuznetsov",
+        "given": "M. S."
       },
       {
-        "family": "Verona",
-        "given": "Claudio"
+        "family": "Kornilov",
+        "given": "N. V."
       },
       {
-        "family": "Verona-Rinati",
-        "given": "Gianluca"
+        "family": "Terentiev",
+        "given": "S. A."
+      },
+      {
+        "family": "Blank",
+        "given": "V. D."
       }
     ],
-    "container-title": "IEEE Transactions on Nuclear Science",
-    "id": "rolletNovelMicrodosimeterBased2012",
-    "issue": "5 PART 3",
+    "container-title": "Diamond and Related Materials",
+    "id": "Bormashov2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "keyword": "Betavoltaic,Ion beam implantation,Nickel-63 isotope,Nuclear microbattery,Schottky diode,Synthetic diamond",
+    "page": "41-47",
+    "publisher": "Elsevier Ltd",
+    "title": "High power density nuclear battery prototype based on diamond Schottky diodes",
+    "type": "article-journal",
+    "volume": "84",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/1361-6463/aa7bc5",
+    "author": [
+      {
+        "family": "Butera",
+        "given": "S."
+      },
+      {
+        "family": "Whitaker",
+        "given": "M. D. C."
+      },
+      {
+        "family": "Krysa",
+        "given": "A. B."
+      },
+      {
+        "family": "Barnett",
+        "given": "A. M."
+      }
+    ],
+    "container-title": "Journal of Physics D: Applied Physics",
+    "id": "Butera2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "345101",
+    "title": "Investigation of a temperature tolerant InGaP (GaInP) converter layer for a 63 Ni betavoltaic cell",
+    "type": "article-journal",
+    "volume": "50",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1063/1.2166699",
+    "ISSN": "00036951",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Chandrashekhar",
+        "given": "M. V. S."
+      },
+      {
+        "family": "Thomas",
+        "given": "Christopher I."
+      },
+      {
+        "family": "Li",
+        "given": "Hui"
+      },
+      {
+        "family": "Spencer",
+        "given": "M. G."
+      },
+      {
+        "family": "Lal",
+        "given": "Amit"
+      }
+    ],
+    "container-title": "Applied Physics Letters",
+    "id": "Chandrashekhar2006",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "keyword": "current density,electron-hole recombination,p-n junctions,photovoltaic cells,semiconductor diodes,short-circuit currents,silicon compounds,wide band gap semiconductors",
+    "page": "1-3",
+    "publisher": "American Institute of PhysicsAIP",
+    "title": "Demonstration of a 4H SiC betavoltaic cell",
+    "type": "article-journal",
+    "volume": "88",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/0022-3727/44/21/215303",
+    "ISSN": "0022-3727",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Haiyanag"
+      },
+      {
+        "family": "Jiang",
+        "given": "Lan"
+      },
+      {
+        "family": "Chen",
+        "given": "Xuyuan"
+      }
+    ],
+    "container-title": "Journal of Physics D: Applied Physics",
+    "id": "Chen2011",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    },
+    "page": "215303",
+    "publisher": "IOP Publishing",
+    "title": "Design optimization of GaAs betavoltaic batteries",
+    "type": "article-journal",
+    "volume": "44",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1063/1.4954013",
+    "author": [
+      {
+        "family": "Delfaure",
+        "given": "C"
+      },
+      {
+        "family": "Pomorski",
+        "given": "M"
+      },
+      {
+        "family": "Sanoit",
+        "given": "J De"
+      },
+      {
+        "family": "Bergonzo",
+        "given": "P"
+      },
+      {
+        "family": "Saada",
+        "given": "S"
+      }
+    ],
+    "container-title": "Applied Physics Letters",
+    "id": "Delfaure2016",
+    "issue": "252105",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1-6",
+    "title": "Single crystal CVD diamond membranes for betavoltaic cell",
+    "type": "article-journal",
+    "volume": "108",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1038/srep38182",
+    "ISSN": "20452322",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Dixon",
+        "given": "Jefferson"
+      },
+      {
+        "family": "Rajan",
+        "given": "Aravindh"
+      },
+      {
+        "family": "Bohlemann",
+        "given": "Steven"
+      },
+      {
+        "family": "Coso",
+        "given": "Dusan"
+      },
+      {
+        "family": "Upadhyaya",
+        "given": "Ajay D."
+      },
+      {
+        "family": "Rohatgi",
+        "given": "Ajeet"
+      },
+      {
+        "family": "Chu",
+        "given": "Steven"
+      },
+      {
+        "family": "Majumdar",
+        "given": "Arun"
+      },
+      {
+        "family": "Yee",
+        "given": "Shannon"
+      }
+    ],
+    "container-title": "Scientific Reports",
+    "id": "Dixon2016",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "Devices for energy harvesting,Mechanical engineering,Nuclear waste",
+    "page": "1-6",
+    "publisher": "Nature Publishing Group",
+    "title": "Evaluation of a Silicon 90Sr Betavoltaic Power Source",
+    "type": "article-journal",
+    "volume": "6",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1126/science.aaa5760",
+    "ISSN": "10959203",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Dong",
+        "given": "Qingfeng"
+      },
+      {
+        "family": "Fang",
+        "given": "Yanjun"
+      },
+      {
+        "family": "Shao",
+        "given": "Yuchuan"
+      },
+      {
+        "family": "Mulligan",
+        "given": "Padhraic"
+      },
+      {
+        "family": "Qiu",
+        "given": "Jie"
+      },
+      {
+        "family": "Cao",
+        "given": "Lei"
+      },
+      {
+        "family": "Huang",
+        "given": "Jinsong"
+      }
+    ],
+    "container-title": "Science",
+    "id": "Dong2015",
+    "issue": "6225",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "967-970",
+    "publisher": "American Association for the Advancement of Science",
+    "title": "Electron-hole diffusion lengths $>$ 175 $\\mu$m in solution-grown CH3NH3PbI3 single crystals",
+    "type": "article-journal",
+    "volume": "347",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/1674-4926/32/8/084006",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Haiyang",
+        "given": "Chen"
+      },
+      {
+        "family": "Jianhua",
+        "given": "Yin"
+      },
+      {
+        "family": "Darang",
+        "given": "Li"
+      }
+    ],
+    "container-title": "Journal of Semiconductors",
+    "id": "Haiyang2011",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "keyword": "betavoltaic,electrode design,photovoltaic,series and parallel resistance",
+    "page": "084006",
+    "title": "Electrode pattern design for GaAs betavoltaic batteries",
+    "type": "article-journal",
+    "volume": "32",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1109/PVSC.2005.1488079",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Honsberg",
+        "given": "Christiana B"
+      },
+      {
+        "family": "Doolittle",
+        "given": "William A"
+      },
+      {
+        "family": "Allen",
+        "given": "Mark"
+      },
+      {
+        "family": "Wang",
+        "given": "Chris"
+      }
+    ],
+    "container-title": "IEEE Photovoltaics Specialist Conference",
+    "id": "Honsberg2005",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "102-105",
+    "title": "GaN betavoltaic energy converters",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/J.SSE.2017.06.010",
+    "ISSN": "0038-1101",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Khan",
+        "given": "Muhammad R."
+      },
+      {
+        "family": "Smith",
+        "given": "Joshua R."
+      },
+      {
+        "family": "Tompkins",
+        "given": "Randy P."
+      },
+      {
+        "family": "Kelley",
+        "given": "Stephen"
+      },
+      {
+        "family": "Litz",
+        "given": "Marc"
+      },
+      {
+        "family": "Russo",
+        "given": "John"
+      },
+      {
+        "family": "Leathersich",
+        "given": "Jeff"
+      },
+      {
+        "family": "Shahedipour-Sandvik",
+        "given": "Fatemeh (Shadi)"
+      },
+      {
+        "family": "Jones",
+        "given": "Kenneth A."
+      },
+      {
+        "family": "Iliadis",
+        "given": "Agis"
+      }
+    ],
+    "container-title": "Solid-State Electronics",
+    "id": "Khan2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "Betavoltaic devices,GaN p-i-n diodes,Nickel-63,Tritium",
+    "page": "24-29",
+    "publisher": "Pergamon",
+    "title": "Design and characterization of GaN p-i-n diodes for betavoltaic devices",
+    "type": "article-journal",
+    "volume": "136",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1134/S0020441220040156",
+    "ISSN": "1608-3180",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Krasnov",
+        "given": "A. A."
+      },
+      {
+        "family": "Legotin",
+        "given": "S. A."
+      }
+    ],
+    "container-title": "Instruments and Experimental Techniques 2020",
+    "id": "Krasnov2020",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "keyword": "Electrical Engineering,Measurement Science and Instrumentation,Physical Chemistry",
+    "page": "437-452",
+    "publisher": "Springer",
+    "title": "Advances in the Development of Betavoltaic Power Sources (A Review)",
+    "type": "article-journal",
+    "volume": "63",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/J.APRADISO.2011.10.013",
+    "ISSN": "0969-8043",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Yebing"
+      },
+      {
+        "family": "Hu",
+        "given": "Rui"
+      },
+      {
+        "family": "Yang",
+        "given": "Yuqing"
+      },
+      {
+        "family": "Wang",
+        "given": "Guanquan"
+      },
+      {
+        "family": "Luo",
+        "given": "Shunzhong"
+      },
+      {
+        "family": "Liu",
+        "given": "Ning"
+      }
+    ],
+    "container-title": "Applied Radiation and Isotopes",
+    "id": "Liu2012",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
@@ -134,13 +812,14 @@
         ]
       ]
     },
-    "keyword": "Artificial single crystal diamond detector,diamond microdosimeter,microdosimetry,Monte Carlo simulation",
-    "page": "2409-2415",
-    "title": "A novel microdosimeter based upon artificial single crystal diamond",
+    "keyword": "Betavoltaic,Radiation resistant,Schottky barrier diode",
+    "page": "438-441",
+    "publisher": "Pergamon",
+    "title": "Investigation on a radiation tolerant betavoltaic battery based on Schottky barrier diode",
     "type": "article-journal",
-    "volume": "59",
+    "volume": "70",
     "tags": [
-      "Gammavoltaics"
+      "Betavoltaics"
     ]
   },
   {
@@ -222,6 +901,951 @@
     "volume": "87",
     "tags": [
       "Alphavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/j.mtener.2021.100688",
+    "ISSN": "24686069",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mackenzie",
+        "given": "G. R."
+      },
+      {
+        "family": "Kaluvan",
+        "given": "S."
+      },
+      {
+        "family": "Martin",
+        "given": "P. G."
+      },
+      {
+        "family": "Hutson",
+        "given": "C."
+      },
+      {
+        "family": "Connolley",
+        "given": "T."
+      },
+      {
+        "family": "Cattelan",
+        "given": "M."
+      },
+      {
+        "family": "Dominguez-Andrade",
+        "given": "H."
+      },
+      {
+        "family": "Martin",
+        "given": "T. L."
+      },
+      {
+        "family": "Fox",
+        "given": "N. A."
+      },
+      {
+        "family": "Scott",
+        "given": "T. B."
+      }
+    ],
+    "container-title": "Materials Today Energy",
+    "id": "Mackenzie2021a",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "100688",
+    "publisher": "Elsevier BV",
+    "title": "A diamond gammavoltaic cell utilizing surface conductivity and its response to different photon interaction mechanisms",
+    "type": "article-journal",
+    "volume": "21",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1007/978-3-642-66187-7_25",
+    "author": [
+      {
+        "family": "Matheson",
+        "given": "W E"
+      }
+    ],
+    "container-title": "Engineering in Medicine",
+    "editor": [
+      {
+        "family": "Schaldach",
+        "given": "Max"
+      },
+      {
+        "family": "Furman",
+        "given": "Seymour"
+      }
+    ],
+    "id": "Matheson75",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "page": "401-424",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "The Betavoltaic Pacemaker Power Source",
+    "type": "chapter",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1038/s41598-019-47371-6",
+    "ISSN": "20452322",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Maximenko",
+        "given": "Sergey I."
+      },
+      {
+        "family": "Moore",
+        "given": "Jim E."
+      },
+      {
+        "family": "Affouda",
+        "given": "Chaffra A."
+      },
+      {
+        "family": "Jenkins",
+        "given": "Phillip P."
+      }
+    ],
+    "container-title": "Scientific Reports",
+    "id": "maximenkoOptimalSemiconductors3H2019",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "keyword": "Batteries,Electronic and spintronic devices,Nuclear energy,Semiconductors",
+    "page": "1-8",
+    "publisher": "Nature Publishing Group",
+    "title": "Optimal Semiconductors for 3H and 63Ni Betavoltaics",
+    "type": "article-journal",
+    "volume": "9",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mooseman",
+        "given": "B G"
+      },
+      {
+        "family": "Waters",
+        "given": "R L"
+      }
+    ],
+    "id": "Mooseman13",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "title": "Betavoltaic Semiconductor Diode Fabricated from a Radioisotope",
+    "type": "",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/1361-6463/AA9E41",
+    "ISSN": "0022-3727",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Munson",
+        "given": "C E"
+      },
+      {
+        "family": "Gaimard",
+        "given": "Q"
+      },
+      {
+        "family": "Merghem",
+        "given": "K"
+      },
+      {
+        "family": "Sundaram",
+        "given": "S"
+      },
+      {
+        "family": "Rogers",
+        "given": "D J"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Sanoit",
+        "given": "J"
+      },
+      {
+        "family": "Voss",
+        "given": "P L"
+      },
+      {
+        "family": "Ramdane",
+        "given": "A"
+      },
+      {
+        "family": "Salvestrini",
+        "given": "J P"
+      },
+      {
+        "family": "Ougazzaden",
+        "given": "A"
+      }
+    ],
+    "container-title": "Journal of Physics D: Applied Physics",
+    "id": "Munson2017",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "63Ni,battery,betavoltaic,GaN",
+    "page": "035101",
+    "publisher": "IOP Publishing",
+    "title": "Modeling, design, fabrication and experimentation of a GaN-based, 63Ni betavoltaic battery",
+    "type": "article-journal",
+    "volume": "51",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1021/acs.jpcc.5b07876",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Náfrádi",
+        "given": "Balínt"
+      },
+      {
+        "family": "Náfrádi",
+        "given": "Gábor"
+      },
+      {
+        "family": "László",
+        "given": "Forró"
+      },
+      {
+        "family": "Horváth",
+        "given": "Endre"
+      }
+    ],
+    "container-title": "Journal of Physical Chemistry C",
+    "id": "Nafradi2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "25204-25208",
+    "publisher": "UTC",
+    "title": "Methylammonium Lead Iodide for Efficient X-ray Energy Conversion",
+    "type": "article-journal",
+    "volume": "119",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Olsen",
+        "given": "Larry"
+      },
+      {
+        "family": "Serralta",
+        "given": "Denset"
+      },
+      {
+        "family": "Cabauy",
+        "given": "Peter"
+      }
+    ],
+    "id": "Olsen",
+    "publisher": "City Labs, Inc.",
+    "publisher-place": "Homestead, FL",
+    "title": "Betavoltaic Batteries: A Historical Review",
+    "title-short": "Betavoltaic Batteries",
+    "type": "report",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1134/S1063782615060202",
+    "ISSN": "1090-6479",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Polikarpov",
+        "given": "M. A."
+      },
+      {
+        "family": "Yakimov",
+        "given": "E. B."
+      }
+    ],
+    "container-title": "Semiconductors",
+    "id": "Polikarpov2015",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "general,Magnetic Materials,Magnetism,Physics",
+    "page": "746-748",
+    "publisher": "Springer",
+    "title": "Study of the properties of silicon-based semiconductor converters for betavoltaic cells",
+    "type": "article-journal",
+    "volume": "49",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/0256-307X/25/10/076",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Qiao",
+        "given": "Da-Yong"
+      },
+      {
+        "family": "Yuan",
+        "given": "Wei-Zheng"
+      },
+      {
+        "family": "Peng",
+        "given": "Gao"
+      },
+      {
+        "family": "Xian-Wang",
+        "given": "Yao"
+      },
+      {
+        "family": "Zang",
+        "given": "Bo"
+      },
+      {
+        "family": "Lin",
+        "given": "Zhang"
+      },
+      {
+        "family": "Hui",
+        "given": "Guo"
+      },
+      {
+        "family": "Zhang",
+        "given": "Hong-Jian"
+      }
+    ],
+    "container-title": "Chinese Physics Letters",
+    "id": "Qiao2008",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "3798",
+    "title": "Demonstration of a 4H SiC Betavoltaic Nuclear Battery Based on Schottky Barrier Diode *",
+    "type": "article-journal",
+    "volume": "25",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/J.RADPHYSCHEM.2016.04.012",
+    "ISSN": "0969-806X",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rahmani",
+        "given": "Faezeh"
+      },
+      {
+        "family": "Khosravinia",
+        "given": "Hossein"
+      }
+    ],
+    "container-title": "Radiation Physics and Chemistry",
+    "id": "rahmaniOptimizationSiliconParameters2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "63Ni,Betavoltaic battery,p-n junction,Schottky barrier,Si",
+    "page": "205-212",
+    "publisher": "Pergamon",
+    "title": "Optimization of Silicon parameters as a betavoltaic battery: Comparison of Si p-n and Ni/Si Schottky barrier",
+    "title-short": "Optimization of Silicon parameters as a betavoltaic battery",
+    "type": "article-journal",
+    "volume": "125",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1109/TNS.2012.2209677",
+    "ISSN": "00189499",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rollet",
+        "given": "Sofia"
+      },
+      {
+        "family": "Angelone",
+        "given": "Maurizio"
+      },
+      {
+        "family": "Magrin",
+        "given": "Giulio"
+      },
+      {
+        "family": "Marinelli",
+        "given": "Marco"
+      },
+      {
+        "family": "Milani",
+        "given": "Enrico"
+      },
+      {
+        "family": "Pillon",
+        "given": "Mario"
+      },
+      {
+        "family": "Prestopino",
+        "given": "Giuseppe"
+      },
+      {
+        "family": "Verona",
+        "given": "Claudio"
+      },
+      {
+        "family": "Verona-Rinati",
+        "given": "Gianluca"
+      }
+    ],
+    "container-title": "IEEE Transactions on Nuclear Science",
+    "id": "rolletNovelMicrodosimeterBased2012",
+    "issue": "5 PART 3",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "keyword": "Artificial single crystal diamond detector,diamond microdosimeter,microdosimetry,Monte Carlo simulation",
+    "page": "2409-2415",
+    "title": "A novel microdosimeter based upon artificial single crystal diamond",
+    "type": "article-journal",
+    "volume": "59",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/j.apradiso.2018.10.012",
+    "ISSN": "18729800",
+    "PMID": "30572201",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Russo",
+        "given": "Johnny"
+      },
+      {
+        "family": "Litz",
+        "given": "Marc"
+      },
+      {
+        "family": "Ray",
+        "given": "William"
+      },
+      {
+        "family": "Bayne",
+        "given": "Stephen"
+      },
+      {
+        "family": "Rosen",
+        "given": "Gerald M."
+      },
+      {
+        "family": "Cho",
+        "given": "Hansol"
+      },
+      {
+        "family": "Yu",
+        "given": "Joshua"
+      },
+      {
+        "family": "Bigio",
+        "given": "David I."
+      },
+      {
+        "family": "Thomas",
+        "given": "Christopher"
+      },
+      {
+        "family": "Alam",
+        "given": "Tariq Rizvi"
+      }
+    ],
+    "container-title": "Applied Radiation and Isotopes",
+    "id": "Russo2019a",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "93-103",
+    "publisher": "Elsevier Ltd",
+    "title": "Demonstration of a Tritiated Nitroxide Nuclear Battery",
+    "type": "article-journal",
+    "volume": "144",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/J.SSE.2015.05.042",
+    "ISSN": "0038-1101",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Sachenko",
+        "given": "A. V."
+      },
+      {
+        "family": "Shkrebtii",
+        "given": "A. I."
+      },
+      {
+        "family": "Korkishko",
+        "given": "R. M."
+      },
+      {
+        "family": "Kostylyov",
+        "given": "V. P."
+      },
+      {
+        "family": "Kulish",
+        "given": "M. R."
+      },
+      {
+        "family": "Sokolovskyi",
+        "given": "I. O."
+      }
+    ],
+    "container-title": "Solid-State Electronics",
+    "id": "sachenkoEfficiencyAnalysisBetavoltaic2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "Beta source,Betavoltaics,Collection efficiency,Open-circuit voltage",
+    "page": "147-152",
+    "publisher": "Pergamon",
+    "title": "Efficiency analysis of betavoltaic elements",
+    "type": "article-journal",
+    "volume": "111",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1002/pssa.201533060",
+    "ISBN": "1862-6319",
+    "ISSN": "18626319",
+    "author": [
+      {
+        "family": "Tarelkin",
+        "given": "Sergey"
+      },
+      {
+        "family": "Bormashov",
+        "given": "Vitaly"
+      },
+      {
+        "family": "Korostylev",
+        "given": "Eugeniy"
+      },
+      {
+        "family": "Troschiev",
+        "given": "Sergey"
+      },
+      {
+        "family": "Teteruk",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Golovanov",
+        "given": "Anton"
+      },
+      {
+        "family": "Volkov",
+        "given": "Alexander"
+      },
+      {
+        "family": "Kornilov",
+        "given": "Nikolay"
+      },
+      {
+        "family": "Kuznetsov",
+        "given": "Mikhail"
+      },
+      {
+        "family": "Prikhodko",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Buga",
+        "given": "Sergei"
+      }
+    ],
+    "container-title": "physica status solidi (a)",
+    "id": "Tarelkin2016a",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "Al,Au,betavoltaic converters,contacts,diamond,electron beam-induced current,Hf,metals,Pt,Schottky barrier",
+    "page": "2492-2497",
+    "title": "Comparative study of different metals for Schottky barrier diamond betavoltaic power converter by EBIC technique",
+    "type": "article-journal",
+    "volume": "213",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1007/S10967-009-0320-3",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ulmen",
+        "given": "B."
+      },
+      {
+        "family": "Desai",
+        "given": "P. D."
+      },
+      {
+        "family": "Moghaddam",
+        "given": "S."
+      },
+      {
+        "family": "Miley",
+        "given": "G. H."
+      },
+      {
+        "family": "Masel",
+        "given": "R. I."
+      }
+    ],
+    "container-title": "Journal of Radioanalytical and Nuclear Chemistry",
+    "id": "Ulmen2009",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "keyword": "63Ni,Betavoltaic battery,Nuclear battery,P-N junction diode,Radioisotope battery",
+    "page": "601-604",
+    "title": "Development of diode junction nuclear battery using 63Ni",
+    "type": "article-journal",
+    "volume": "282",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/J.NIMB.2015.07.046",
+    "ISSN": "0168-583X",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Hao"
+      },
+      {
+        "family": "Tang",
+        "given": "Xiao Bin"
+      },
+      {
+        "family": "Liu",
+        "given": "Yun Peng"
+      },
+      {
+        "family": "Xu",
+        "given": "Zhi Heng"
+      },
+      {
+        "family": "Liu",
+        "given": "Min"
+      },
+      {
+        "family": "Chen",
+        "given": "Da"
+      }
+    ],
+    "container-title": "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms",
+    "id": "Wang2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "Beta sources,Betavoltaic microbatteries,Energy conversion devices,Temperature effects",
+    "page": "36-43",
+    "publisher": "North-Holland",
+    "title": "Temperature effect on betavoltaic microbatteries based on Si and GaAs under 63Ni and 147Pm irradiation",
+    "type": "article-journal",
+    "volume": "359",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1063/1.5094826",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Meng"
+      },
+      {
+        "family": "Zhang",
+        "given": "Jinwen"
+      }
+    ],
+    "container-title": "AIP Advances",
+    "id": "Wu2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "075124",
+    "title": "Design and simulation of high conversion efficiency betavoltaic battery based on a stacked multilayer structure",
+    "type": "article-journal",
+    "volume": "9",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/j.sna.2016.01.028",
+    "ISSN": "09244247",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Kan"
+      },
+      {
+        "family": "Gui",
+        "given": "Gui"
+      },
+      {
+        "family": "Pathak",
+        "given": "Piyush"
+      },
+      {
+        "family": "Seo",
+        "given": "Jung Hun"
+      },
+      {
+        "family": "Blanchard",
+        "given": "James P."
+      },
+      {
+        "family": "Ma",
+        "given": "Zhenqiang"
+      }
+    ],
+    "container-title": "Sensors and Actuators, A: Physical",
+    "id": "zhangQuantitativeModelingBetavoltaic2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Quantitative modeling of betavoltaic microbattery performance",
+    "type": "article-journal",
+    "volume": "240",
+    "tags": [
+      "Betavoltaics"
     ]
   }
 ]
