@@ -1,0 +1,82 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Bibliography</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Basic SEO -->
+  <meta name="description" content="Searchable, filterable bibliography.">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="container">
+    <h1>Bibliography</h1>
+    <p class="muted">Last updated: <span id="lastUpdated">2026-01-01</span></p>
+  </header>
+
+  <main class="container">
+    <!-- Controls -->
+    <section aria-labelledby="filters-title">
+      <h2 id="filters-title">Search &amp; Filter</h2>
+
+      <div class="controls">
+        <input
+          id="search"
+          type="search"
+          placeholder="Search author, title, journal, year, DOI, ID…"
+          aria-label="Search citations"
+        >
+
+        <label class="select-wrap" for="yearFilter">
+          <span class="label">Year</span>
+          <select id="yearFilter" aria-label="Filter by year">
+            <option value="">All years</option>
+          </select>
+        </label>
+      </div>
+
+      <!-- Hard-coded (controlled vocabulary) Tag Filter – OR logic -->
+      <fieldset id="tagFilter" class="tags" aria-label="Filter by tags">
+        <legend>Tags (OR logic)</legend>
+        <!-- Edit these to match your controlled vocabulary -->
+        <label><input type="checkbox" value="diamond"> diamond</label>
+        <label><input type="checkbox" value="boron-doped"> boron-doped</label>
+        <label><input type="checkbox" value="TLM"> TLM</label>
+        <label><input type="checkbox" value="device-fabrication"> device-fabrication</label>
+        <label><input type="checkbox" value="dataset"> dataset</label>
+        <label><input type="checkbox" value="review"> review</label>
+      </fieldset>
+
+      <div id="count" class="muted"></div>
+    </section>
+
+    <!-- Entries -->
+    <section aria-labelledby="results-title">
+      <h2 id="results-title" class="sr-only">Results</h2>
+      <div id="entries" role="list"></div>
+    </section>
+
+    <!-- How to cite -->
+    <section aria-labelledby="cite-title">
+      <h2 id="cite-title">How to cite this website</h2>
+      <p>
+        Author (Year). <em>Bibliography website</em>. Last updated
+        <span id="lastUpdatedCite">2026-01-01</span>.
+        URL: <span id="siteUrl"></span>.
+      </p>
+      <p><strong>APA example:</strong><br>
+        Mackenzie, R. (2026). <em>Interface Analysis Centre bibliography</em>. Last updated 2026-01-01. https://example.org
+      </p>
+    </section>
+  </main>
+
+  <footer class="container">
+    <small>&copy; 2026 Your Name.</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
