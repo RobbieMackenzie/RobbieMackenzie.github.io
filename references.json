@@ -1,28 +1,227 @@
-
 [
   {
-    "id": "smith2023example",
-    "type": "article-journal",
-    "title": "An Example Journal Article",
+    "DOI": "10.1002/pssa.201532214",
+    "ISBN": "0033-8419",
+    "ISSN": "18626319",
+    "PMID": "16714465",
     "author": [
-      {"family": "Smith", "given": "Jane"},
-      {"family": "Doe", "given": "Alex"}
+      {
+        "family": "Bormashov",
+        "given": "Vitaly"
+      },
+      {
+        "family": "Troschiev",
+        "given": "Sergey"
+      },
+      {
+        "family": "Volkov",
+        "given": "Alexander"
+      },
+      {
+        "family": "Tarelkin",
+        "given": "Sergey"
+      },
+      {
+        "family": "Korostylev",
+        "given": "Eugeniy"
+      },
+      {
+        "family": "Golovanov",
+        "given": "Anton"
+      },
+      {
+        "family": "Kuznetsov",
+        "given": "Mikhail"
+      },
+      {
+        "family": "Teteruk",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Kornilov",
+        "given": "Nikolay"
+      },
+      {
+        "family": "Terentiev",
+        "given": "Sergey"
+      },
+      {
+        "family": "Buga",
+        "given": "Sergey"
+      },
+      {
+        "family": "Blank",
+        "given": "Vladimir"
+      }
     ],
-    "issued": {"date-parts": [[2023]]},
-    "container-title": "Journal of Examples",
-    "DOI": "10.1234/example.2023.001",
-    "URL": "https://example.org/article",
-    "tags": ["review", "diamond"]
+    "container-title": "physica status solidi (a)",
+    "id": "Bormashov2015a",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "betavoltaics,nuclear microbatteries,Schottky diodes,synthetic diamond",
+    "page": "2539-2547",
+    "title": "Development of nuclear microbattery prototype based on Schottky barrier diamond diodes",
+    "type": "article-journal",
+    "volume": "212",
+    "tags": [
+      "Betavoltaics"
+    ]
   },
   {
-    "id": "miller2022conf",
-    "type": "paper-conference",
-    "title": "Conference Paper",
-    "author": [{"family": "Miller", "given": "Sam"}],
-    "issued": {"date-parts": [[2022]]},
-    "container-title": "Proceedings of the Example Conference",
-    "URL": "https://example.org/paper",
-    "tags": ["device-fabrication", "TLM"]
+    "DOI": "10.1109/TNS.2012.2209677",
+    "ISSN": "00189499",
+    "abstract": "This paper represents the first attempt to discuss the use of an artificial single-crystal diamond as a new microdosimeter. The Diamond MicroDosimeter (DMD) detecting region is a thin layer of highly controlled thickness $<$ 5$\\mu$m and high purity intrinsic monocrystalline diamond grown over a backing boron doped monocrystalline diamond. This viable, small, compact and user-friendly device is able to obtain spectra of the energy deposition in sensitive volumes of the order of micrometer. The paper reports the first experimental tests performed to measure the dose distribution in terms of lineal energy and the simulation performed by the Monte Carlo code FLUKA to optimize the design of the new DMD. Advantages and shortcomings of the DMD are discussed. © 2012 IEEE.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rollet",
+        "given": "Sofia"
+      },
+      {
+        "family": "Angelone",
+        "given": "Maurizio"
+      },
+      {
+        "family": "Magrin",
+        "given": "Giulio"
+      },
+      {
+        "family": "Marinelli",
+        "given": "Marco"
+      },
+      {
+        "family": "Milani",
+        "given": "Enrico"
+      },
+      {
+        "family": "Pillon",
+        "given": "Mario"
+      },
+      {
+        "family": "Prestopino",
+        "given": "Giuseppe"
+      },
+      {
+        "family": "Verona",
+        "given": "Claudio"
+      },
+      {
+        "family": "Verona-Rinati",
+        "given": "Gianluca"
+      }
+    ],
+    "container-title": "IEEE Transactions on Nuclear Science",
+    "id": "rolletNovelMicrodosimeterBased2012",
+    "issue": "5 PART 3",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "keyword": "Artificial single crystal diamond detector,diamond microdosimeter,microdosimetry,Monte Carlo simulation",
+    "page": "2409-2415",
+    "title": "A novel microdosimeter based upon artificial single crystal diamond",
+    "type": "article-journal",
+    "volume": "59",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1016/j.diamond.2018.05.008",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "B"
+      },
+      {
+        "family": "Dai",
+        "given": "B"
+      },
+      {
+        "family": "Liu",
+        "given": "K"
+      },
+      {
+        "family": "Yang",
+        "given": "L"
+      },
+      {
+        "family": "Zhao",
+        "given": "J"
+      },
+      {
+        "family": "Shu",
+        "given": "G"
+      },
+      {
+        "family": "Lv",
+        "given": "Z"
+      },
+      {
+        "family": "Gao",
+        "given": "G"
+      },
+      {
+        "family": "Yao",
+        "given": "K"
+      },
+      {
+        "family": "Bi",
+        "given": "M"
+      },
+      {
+        "family": "Xue",
+        "given": "J"
+      },
+      {
+        "family": "Wang",
+        "given": "W"
+      },
+      {
+        "family": "Ralchenko",
+        "given": "V"
+      },
+      {
+        "family": "Han",
+        "given": "J"
+      },
+      {
+        "family": "Zhu",
+        "given": "J"
+      }
+    ],
+    "container-title": "Diamond & Related Materials",
+    "id": "Liu2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "35-42",
+    "title": "Alpha-voltaic battery on diamond Schottky barrier diode",
+    "type": "article-journal",
+    "volume": "87",
+    "tags": [
+      "Alphavoltaics"
+    ]
   }
 ]
-``

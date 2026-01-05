@@ -1,16 +1,13 @@
 
 {
   "allowedTags": [
-    "diamond",
-    "boron-doped",
-    "TLM",
-    "device-fabrication",
-    "dataset",
-    "review"
+    "Alphavoltaics",
+    "Betavoltaics",
+    "Gammavoltaics"
   ],
   "byId": {
-    "smith2023example": ["review", "diamond"],
-    "miller2022conf": ["device-fabrication", "TLM"],
-    "mackenzie2021dataset": ["dataset", "diamond", "boron-doped"]
+    "Bormashov2015a": ["Betavoltaics"],
+    "rolletNovelMicrodosimeterBased2012": ["Gammavoltaics"],
+    "Liu2018": ["Alphavoltaics"]
   }
 }
