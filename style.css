@@ -42,7 +42,11 @@ input[type="search"], select {
   position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
 }
-
+/* Settings for desktop screens */
 @media (min-width: 720px) {
   .entry { display: grid; grid-template-columns: 1fr auto; gap: .5rem 1rem; align-items: start; }
+  .container {
+      max-width: 95vw; /* 95% of the viewport width */
+    }
+
 }
