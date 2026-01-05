@@ -1061,6 +1061,7 @@
     ]
   },
   {
+    "URL": "https://patents.google.com/patent/US8937360B1/en",
     "author": [
       {
         "family": "Mooseman",
@@ -1080,7 +1081,7 @@
       ]
     },
     "title": "Betavoltaic Semiconductor Diode Fabricated from a Radioisotope",
-    "type": "",
+    "type": "patent",
     "tags": [
       "Betavoltaics"
     ]
@@ -1208,6 +1209,7 @@
     ]
   },
   {
+    "URL": "https://citylabs.com/betavoltaic-batteries-a-historical-review/",
     "accessed": {
       "date-parts": [
         [
@@ -1236,7 +1238,7 @@
     "publisher-place": "Homestead, FL",
     "title": "Betavoltaic Batteries: A Historical Review",
     "title-short": "Betavoltaic Batteries",
-    "type": "report",
+    "type": "",
     "tags": [
       "Betavoltaics"
     ]
