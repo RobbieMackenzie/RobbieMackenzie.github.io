@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": "smith2023example",
+    "type": "article-journal",
+    "title": "An Example Journal Article",
+    "author": [
+      {"family": "Smith", "given": "Jane"},
+      {"family": "Doe", "given": "Alex"}
+    ],
+    "issued": {"date-parts": [[2023]]},
+    "container-title": "Journal of Examples",
+    "DOI": "10.1234/example.2023.001",
+    "URL": "https://example.org/article",
+    "tags": ["review", "diamond"]
+  },
+  {
+    "id": "miller2022conf",
+    "type": "paper-conference",
+    "title": "Conference Paper",
+    "author": [{"family": "Miller", "given": "Sam"}],
+    "issued": {"date-parts": [[2022]]},
+    "container-title": "Proceedings of the Example Conference",
+    "URL": "https://example.org/paper",
+    "tags": ["device-fabrication", "TLM"]
+  }
+]
+``
