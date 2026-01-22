@@ -38,6 +38,23 @@
     "Ulmen2009": ["Betavoltaics"],
     "Wang2015": ["Betavoltaics"],
     "Wu2019": ["Betavoltaics"],
-    "zhangQuantitativeModelingBetavoltaic2016": ["Betavoltaics"]
+    "zhangQuantitativeModelingBetavoltaic2016": ["Betavoltaics"],
+    "cress_ingap_2006": ["Alphavoltaics"],
+    "liakos_gamma2008": ["Gammavoltaics"],
+    "da-yong_demonstration_2008": ["Betavoltaics"],
+    "bailey_photovoltaic_2005": ["Betavoltaics"],
+    "liakos_thorium-229m1m2powered_2009": ["Gammavoltaics"],
+    "liakos_gamma-ray-driven_2011": ["Gammavoltaics"],
+    "zhang_gaas_2018": ["Gammavoltaics"],
+    "scharf_photovoltaic_1960": ["Gammavoltaics"],
+    "horiuchi_characteristics_1997": ["Gammavoltaics"],
+    "white_novel_2005": ["Gammavoltaics"],
+    "horiuchi_proposal_2005": ["Gammavoltaics"],
+    "hashizume_direct_2010": ["Gammavoltaics"],
+    "almaviva_synthetic_2008": ["Gammavoltaics"],
+    "almaviva_chemical_2010": ["Gammavoltaics"],
+    "nafradi_methylammonium_2015": ["Gammavoltaics"],
+    "nafradi_radiation_2020": ["Gammavoltaics"],
+    "dong_electron-hole_2015": ["Gammavoltaics"]
   }
 }
