@@ -40,7 +40,7 @@
     "Wu2019": ["Betavoltaics"],
     "zhangQuantitativeModelingBetavoltaic2016": ["Betavoltaics"],
     "cress_ingap_2006": ["Alphavoltaics"],
-    "liakos_gamma2008": ["Gammavoltaics"],
+    "liakos_gamma_2008": ["Gammavoltaics"],
     "da-yong_demonstration_2008": ["Betavoltaics"],
     "bailey_photovoltaic_2005": ["Betavoltaics"],
     "liakos_thorium-229m1m2powered_2009": ["Gammavoltaics"],

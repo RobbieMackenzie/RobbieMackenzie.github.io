@@ -1,6 +1,6 @@
 
 // ===== Config you update monthly =====
-const LAST_UPDATED = '2026-01-01'; // ISO date string
+const LAST_UPDATED = '2026-01-22'; // ISO date string
 const DATA_URL = 'radiovoltaics-bibliography.json'; // CSL-JSON with `tags` merged in (see merge-tags.mjs)
 
 // ===== Utilities =====

@@ -30,6 +30,190 @@
     ]
   },
   {
+    "DOI": "10.1063/1.3275501",
+    "ISSN": "0021-8979",
+    "URL": "https://doi.org/10.1063/1.3275501",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Almaviva",
+        "given": "S."
+      },
+      {
+        "family": "Marinelli",
+        "given": "Marco"
+      },
+      {
+        "family": "Milani",
+        "given": "E."
+      },
+      {
+        "family": "Prestopino",
+        "given": "G."
+      },
+      {
+        "family": "Tucciarone",
+        "given": "A."
+      },
+      {
+        "family": "Verona",
+        "given": "C."
+      },
+      {
+        "family": "Verona-Rinati",
+        "given": "G."
+      },
+      {
+        "family": "Angelone",
+        "given": "M."
+      },
+      {
+        "family": "Pillon",
+        "given": "M."
+      },
+      {
+        "family": "Dolbnya",
+        "given": "I."
+      },
+      {
+        "family": "Sawhney",
+        "given": "K."
+      },
+      {
+        "family": "Tartoni",
+        "given": "N."
+      }
+    ],
+    "container-title": "Journal of Applied Physics",
+    "id": "almaviva_chemical_2010",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "014511",
+    "title": "Chemical vapor deposition diamond based multilayered radiation detector: Physical analysis of detection properties",
+    "title-short": "Chemical vapor deposition diamond based multilayered radiation detector",
+    "type": "article-journal",
+    "volume": "107",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.nima.2008.06.028",
+    "ISSN": "0168-9002",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0168900208008723",
+    "author": [
+      {
+        "family": "Almaviva",
+        "given": "S."
+      },
+      {
+        "family": "Marinelli",
+        "given": "Marco"
+      },
+      {
+        "family": "Milani",
+        "given": "E."
+      },
+      {
+        "family": "Tucciarone",
+        "given": "A."
+      },
+      {
+        "family": "Verona-Rinati",
+        "given": "G."
+      },
+      {
+        "family": "Consorti",
+        "given": "R."
+      },
+      {
+        "family": "Petrucci",
+        "given": "A."
+      },
+      {
+        "family": "Notaristefani",
+        "given": "F. De"
+      },
+      {
+        "family": "Ciancaglioni",
+        "given": "I."
+      }
+    ],
+    "container-title": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+    "id": "almaviva_synthetic_2008",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "keyword": "Radiotherapy dosimeter, Single crystal diamond",
+    "page": "273-277",
+    "title": "Synthetic single crystal diamond diodes for radiotherapy dosimetry",
+    "type": "article-journal",
+    "volume": "594",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1109/PVSC.2005.1488080",
+    "author": [
+      {
+        "family": "Bailey",
+        "given": "S. G."
+      },
+      {
+        "family": "Wilt",
+        "given": "D. M."
+      },
+      {
+        "family": "Castro",
+        "given": "S. L."
+      },
+      {
+        "family": "Cress",
+        "given": "C. D."
+      },
+      {
+        "family": "Raffaelle",
+        "given": "R. P."
+      }
+    ],
+    "container-title": "Conference Record of the Thirty-first IEEE Photovoltaic Specialists Conference, 2005.",
+    "id": "bailey_photovoltaic_2005",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "keyword": "Alpha particles, Batteries, Degradation, Photovoltaic cells, Photovoltaic systems, Quantum dots, Semiconductivity, Semiconductor diodes, Semiconductor materials, Solar power generation",
+    "page": "106-109",
+    "title": "Photovoltaic development for alpha voltaic batteries",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1002/pssa.201532214",
     "ISBN": "0033-8419",
     "ISSN": "18626319",
@@ -388,6 +572,102 @@
     ]
   },
   {
+    "DOI": "10.1063/1.2390623",
+    "ISSN": "0021-8979",
+    "URL": "https://doi.org/10.1063/1.2390623",
+    "author": [
+      {
+        "family": "Cress",
+        "given": "Cory D."
+      },
+      {
+        "family": "Landi",
+        "given": "Brian J."
+      },
+      {
+        "family": "Raffaelle",
+        "given": "Ryne P."
+      },
+      {
+        "family": "Wilt",
+        "given": "David M."
+      }
+    ],
+    "container-title": "Journal of Applied Physics",
+    "id": "cress_ingap_2006",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "114519",
+    "title": "InGaP alpha voltaic batteries: Synthesis, modeling, and radiation tolerance",
+    "title-short": "InGaP alpha voltaic batteries",
+    "type": "article-journal",
+    "volume": "100",
+    "tags": [
+      "Alphavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/0256-307X/25/10/076",
+    "URL": "https://doi.org/10.1088/0256-307X/25/10/076",
+    "author": [
+      {
+        "family": "Da-Yong",
+        "given": "Qiao"
+      },
+      {
+        "family": "Wei-Zheng",
+        "given": "Yuan"
+      },
+      {
+        "family": "Peng",
+        "given": "Gao"
+      },
+      {
+        "family": "Xian-Wang",
+        "given": "Yao"
+      },
+      {
+        "family": "Bo",
+        "given": "Zang"
+      },
+      {
+        "family": "Lin",
+        "given": "Zhang"
+      },
+      {
+        "family": "Hui",
+        "given": "Guo"
+      },
+      {
+        "family": "Hong-Jian",
+        "given": "Zhang"
+      }
+    ],
+    "container-title": "Chinese Physics Letters",
+    "id": "da-yong_demonstration_2008",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "3798",
+    "title": "Demonstration of a 4H SiC Betavoltaic Nuclear Battery Based on Schottky Barrier Diode",
+    "type": "article-journal",
+    "volume": "25",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1063/1.4954013",
     "author": [
       {
@@ -561,6 +841,57 @@
     ]
   },
   {
+    "DOI": "10.1126/science.aaa5760",
+    "URL": "https://www.science.org/doi/abs/10.1126/science.aaa5760",
+    "author": [
+      {
+        "family": "Dong",
+        "given": "Qingfeng"
+      },
+      {
+        "family": "Fang",
+        "given": "Yanjun"
+      },
+      {
+        "family": "Shao",
+        "given": "Yuchuan"
+      },
+      {
+        "family": "Mulligan",
+        "given": "Padhraic"
+      },
+      {
+        "family": "Qiu",
+        "given": "Jie"
+      },
+      {
+        "family": "Cao",
+        "given": "Lei"
+      },
+      {
+        "family": "Huang",
+        "given": "Jinsong"
+      }
+    ],
+    "container-title": "Science",
+    "id": "dong_electron-hole_2015",
+    "issue": "6225",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "967-970",
+    "title": "Electron-hole diffusion lengths > 175 μm in solution-grown CH3NH3PbI3 single crystals",
+    "type": "article-journal",
+    "volume": "347",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1088/1674-4926/32/8/084006",
     "accessed": {
       "date-parts": [
@@ -602,6 +933,50 @@
     "volume": "32",
     "tags": [
       "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1557/PROC-1264-BB05-01",
+    "ISSN": "1946-4274",
+    "URL": "https://doi.org/10.1557/PROC-1264-BB05-01",
+    "author": [
+      {
+        "family": "Hashizume",
+        "given": "K."
+      },
+      {
+        "family": "Kimura",
+        "given": "H."
+      },
+      {
+        "family": "Otsuka",
+        "given": "T."
+      },
+      {
+        "family": "Tanabe",
+        "given": "T."
+      },
+      {
+        "family": "Okai",
+        "given": "T."
+      }
+    ],
+    "container-title": "MRS Online Proceedings Library",
+    "id": "hashizume_direct_2010",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "501",
+    "title": "Direct Energy Conversion from Gamma Ray to Electricity Using Silicon Semiconductor Cells",
+    "type": "article-journal",
+    "volume": "1264",
+    "tags": [
+      "Gammavoltaics"
     ]
   },
   {
@@ -647,6 +1022,92 @@
     "type": "paper-conference",
     "tags": [
       "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "https://doi.org/10.1016/S0168-9002(96)01046-7",
+    "ISSN": "0168-9002",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0168900296010467",
+    "author": [
+      {
+        "family": "Horiuchi",
+        "given": "Norikazu"
+      },
+      {
+        "family": "Taniguchi",
+        "given": "Koichi"
+      },
+      {
+        "family": "Kamiki",
+        "given": "Masaki"
+      },
+      {
+        "family": "Kondo",
+        "given": "Takashi"
+      },
+      {
+        "family": "Aritomi",
+        "given": "Masanori"
+      }
+    ],
+    "container-title": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+    "id": "horiuchi_characteristics_1997",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "keyword": "Electric power, Scintillator, Solar cell, Spectral response, Spent fuel, γ-Ray",
+    "page": "183-188",
+    "title": "The characteristics of solar cells exposed to γ-radiation",
+    "type": "article-journal",
+    "volume": "385",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.solmat.2004.07.029",
+    "ISSN": "0927-0248",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0927024804003460",
+    "author": [
+      {
+        "family": "Horiuchi",
+        "given": "N."
+      },
+      {
+        "family": "Iijima",
+        "given": "N."
+      },
+      {
+        "family": "Hayashi",
+        "given": "S."
+      },
+      {
+        "family": "Yoda",
+        "given": "I."
+      }
+    ],
+    "container-title": "Solar Energy Materials and Solar Cells",
+    "id": "horiuchi_proposal_2005",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "keyword": "Electric power, Gamma cell, Gamma radiation, Nuclear spent fuel, Scintillator",
+    "page": "287-297",
+    "title": "Proposal of utilization of nuclear spent fuels for gamma cells",
+    "type": "article-journal",
+    "volume": "87",
+    "tags": [
+      "Gammavoltaics"
     ]
   },
   {
@@ -762,6 +1223,90 @@
     "volume": "63",
     "tags": [
       "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1080/18811248.2011.9711836",
+    "URL": "https://doi.org/10.1080/18811248.2011.9711836",
+    "author": [
+      {
+        "family": "Liakos",
+        "given": "John K."
+      }
+    ],
+    "container-title": "Journal of Nuclear Science and Technology",
+    "id": "liakos_gamma-ray-driven_2011",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "1428-1436",
+    "title": "Gamma-Ray-Driven Photovoltaic Cells via a Scintillator Interface",
+    "type": "article-journal",
+    "volume": "48",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/0268-1242/23/8/085001",
+    "URL": "https://doi.org/10.1088/0268-1242/23/8/085001",
+    "author": [
+      {
+        "family": "Liakos",
+        "given": "John K"
+      }
+    ],
+    "container-title": "Semiconductor Science and Technology",
+    "id": "liakos_gamma_2008",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "085001",
+    "title": "Gamma ray driven photovoltaic cells: An interface between nuclear and semiconductor physics",
+    "title-short": "Gamma ray driven photovoltaic cells",
+    "type": "article-journal",
+    "volume": "23",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1088/0268-1242/24/6/065001",
+    "URL": "https://doi.org/10.1088/0268-1242/24/6/065001",
+    "author": [
+      {
+        "family": "Liakos",
+        "given": "John K"
+      }
+    ],
+    "container-title": "Semiconductor Science and Technology",
+    "id": "liakos_thorium-229m1m2powered_2009",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "page": "065001",
+    "title": "Thorium-229m1/m2–powered heterojunction GRPVCs: An interface between nuclear and semiconductor physics",
+    "title-short": "Thorium-229m1/m2–powered heterojunction GRPVCs",
+    "type": "article-journal",
+    "volume": "24",
+    "tags": [
+      "Gammavoltaics"
     ]
   },
   {
@@ -1061,32 +1606,6 @@
     ]
   },
   {
-    "URL": "https://patents.google.com/patent/US8937360B1/en",
-    "author": [
-      {
-        "family": "Mooseman",
-        "given": "B G"
-      },
-      {
-        "family": "Waters",
-        "given": "R L"
-      }
-    ],
-    "id": "Mooseman13",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "title": "Betavoltaic Semiconductor Diode Fabricated from a Radioisotope",
-    "type": "patent",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
     "DOI": "10.1088/1361-6463/AA9E41",
     "ISSN": "0022-3727",
     "accessed": {
@@ -1204,6 +1723,102 @@
     "title": "Methylammonium Lead Iodide for Efficient X-ray Energy Conversion",
     "type": "article-journal",
     "volume": "119",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1021/acs.jpcc.5b07876",
+    "ISSN": "1932-7447",
+    "URL": "https://doi.org/10.1021/acs.jpcc.5b07876",
+    "author": [
+      {
+        "family": "Náfrádi",
+        "given": "Bálint"
+      },
+      {
+        "family": "Náfrádi",
+        "given": "Gábor"
+      },
+      {
+        "family": "Forró",
+        "given": "László"
+      },
+      {
+        "family": "Horváth",
+        "given": "Endre"
+      }
+    ],
+    "container-title": "The Journal of Physical Chemistry C",
+    "id": "nafradi_methylammonium_2015",
+    "issue": "45",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "25204-25208",
+    "title": "Methylammonium Lead Iodide for Efficient X-ray Energy Conversion",
+    "type": "article-journal",
+    "volume": "119",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.enconman.2019.112423",
+    "ISSN": "0196-8904",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S019689041931430X",
+    "author": [
+      {
+        "family": "Náfrádi",
+        "given": "Gábor"
+      },
+      {
+        "family": "Horváth",
+        "given": "Endre"
+      },
+      {
+        "family": "Kollár",
+        "given": "Márton"
+      },
+      {
+        "family": "Horváth",
+        "given": "András"
+      },
+      {
+        "family": "Andričević",
+        "given": "Pavao"
+      },
+      {
+        "family": "Sienkiewicz",
+        "given": "Andrzej"
+      },
+      {
+        "family": "Forró",
+        "given": "László"
+      },
+      {
+        "family": "Náfrádi",
+        "given": "Bálint"
+      }
+    ],
+    "container-title": "Energy Conversion and Management",
+    "id": "nafradi_radiation_2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "keyword": "Energy harvest, Gamma irradiation, Hybrid halide perovskite, Nuclear reactor, Nuclear safety, Remnant radiation",
+    "page": "112423",
+    "title": "Radiation detection and energy conversion in nuclear reactor environments by hybrid photovoltaic perovskites",
+    "type": "article-journal",
+    "volume": "205",
     "tags": [
       "Gammavoltaics"
     ]
@@ -1590,6 +2205,30 @@
     ]
   },
   {
+    "author": [
+      {
+        "family": "Scharf",
+        "given": "Karl"
+      }
+    ],
+    "container-title": "JOURNAL OF RESEARCH of the National Bureau of Standards-A. Physics and Chemistry",
+    "id": "scharf_photovoltaic_1960",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1960
+        ]
+      ]
+    },
+    "title": "Photovoltaic effect produced in silicon solar cells by X- and gamma rays",
+    "type": "article-journal",
+    "volume": "64A",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1002/pssa.201533060",
     "ISBN": "1862-6319",
     "ISSN": "18626319",
@@ -1768,6 +2407,42 @@
     ]
   },
   {
+    "author": [
+      {
+        "family": "White",
+        "given": "John R"
+      },
+      {
+        "family": "Kinsman",
+        "given": "Douglas"
+      },
+      {
+        "family": "Regan",
+        "given": "Thomas M"
+      },
+      {
+        "family": "Bobek",
+        "given": "Leo M"
+      }
+    ],
+    "id": "white_novel_2005",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "number": "DE-FG07-04ID14603",
+    "publisher": "University of Massachusetts Lowell",
+    "publisher-place": "UMass-Lowell Radiation Laboratory",
+    "title": "Novel Nuclear Powered Photocatalytic Energy Conversion",
+    "type": "report",
+    "tags": [
+      "Gammavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1063/1.5094826",
     "accessed": {
       "date-parts": [
@@ -1803,6 +2478,58 @@
     "volume": "9",
     "tags": [
       "Betavoltaics"
+    ]
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.nimb.2017.10.033",
+    "ISSN": "0168-583X",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0168583X17309527",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Zheng-Rong"
+      },
+      {
+        "family": "Liu",
+        "given": "Yun-Peng"
+      },
+      {
+        "family": "Tang",
+        "given": "Xiao-Bin"
+      },
+      {
+        "family": "Xu",
+        "given": "Zhi-Heng"
+      },
+      {
+        "family": "Yuan",
+        "given": "Zi-Cheng"
+      },
+      {
+        "family": "Liu",
+        "given": "Kai"
+      },
+      {
+        "family": "Chen",
+        "given": "Wang"
+      }
+    ],
+    "container-title": "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms",
+    "id": "zhang_gaas_2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "keyword": "Aluminum film, GaAs device, Phosphor layers, Radioluminescence spectra, X-ray radioluminescence nuclear battery",
+    "page": "9-16",
+    "title": "GaAs low-energy X-ray radioluminescence nuclear battery",
+    "type": "article-journal",
+    "volume": "415",
+    "tags": [
+      "Gammavoltaics"
     ]
   },
   {
