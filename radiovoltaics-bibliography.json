@@ -173,6 +173,133 @@
     ]
   },
   {
+    "author": [
+      {
+        "family": "Andreev",
+        "given": "V. M"
+      }
+    ],
+    "genre": "Ioffe {Institute} {Report}",
+    "id": "andreev_advanced_2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "Ioffe Institute",
+    "publisher-place": "St Perersburg, Russia",
+    "title": "Advanced beta cell and low-intensity photovoltaic cells and arrays based on 111-V compounds",
+    "type": "report",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andreev",
+        "given": "V. M"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "id": "andreev_betavoltaic_1999",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "817",
+    "publisher-place": "Sapporo",
+    "title": "Betavoltaic cells based on tritium and AlGaAs/GaAs heterostructures",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andreev",
+        "given": "V. M"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "id": "andreev_betavoltaic_1999-1",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "817-818",
+    "title": "Betavoltaic cells based on tritium and AlGaAs-GaAs heterojunctions",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andreev",
+        "given": "V. M"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "id": "andreev_tritium-powered_2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher-place": "Anchorage, AK",
+    "title": "Tritium-powered beta cells based on A1x Ga1-x As, Proc",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Anno",
+        "given": "J. N"
+      }
+    ],
+    "container-title": "Nucl. News.",
+    "id": "anno_direct-energy-conversion_1962",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1962
+        ]
+      ]
+    },
+    "title": "A direct-energy-conversion device using alpha particles",
+    "type": "article-journal",
+    "volume": "5",
+    "tags": [
+      "Alphavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1109/PVSC.2005.1488080",
     "author": [
       {
@@ -710,6 +837,29 @@
     ]
   },
   {
+    "author": [
+      {
+        "family": "Deus",
+        "given": "S"
+      }
+    ],
+    "id": "deus_alpha_2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher-place": "Anchorage, AK",
+    "title": "Alpha and betavoltaic cells based on amorphous silicon, Proc",
+    "type": "paper-conference",
+    "tags": [
+      "Alphavoltaics",
+      "Betavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1038/srep38182",
     "ISSN": "20452322",
     "accessed": {
@@ -889,6 +1039,120 @@
     "volume": "347",
     "tags": [
       "Gammavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrenberg",
+        "given": "W"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "Proc",
+    "id": "ehrenberg_electron_1951",
+    "issued": {
+      "date-parts": [
+        [
+          1951
+        ]
+      ]
+    },
+    "page": "424",
+    "title": "The electron voltaic effect",
+    "type": "paper-conference",
+    "volume": "64",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "URL": "https://hdl.handle.net/2014/18494",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          3
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Fleurial",
+        "given": "J. P."
+      },
+      {
+        "family": "Synder",
+        "given": "G."
+      },
+      {
+        "family": "Patel",
+        "given": "J."
+      },
+      {
+        "family": "Herman",
+        "given": "J."
+      },
+      {
+        "family": "Caillat",
+        "given": "T."
+      },
+      {
+        "family": "Nesmith",
+        "given": "B."
+      },
+      {
+        "family": "Kolawa",
+        "given": "E."
+      }
+    ],
+    "id": "fleurial_2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "NASA Jet Propulsion Laboratory",
+    "title": "Miniaturized radioisotope solid state power sources",
+    "type": "report",
+    "tags": []
+  },
+  {
+    "author": [
+      {
+        "family": "Flicker",
+        "given": "H"
+      },
+      {
+        "family": "Loferski",
+        "given": "J. J"
+      },
+      {
+        "family": "Elleman",
+        "given": "T. S"
+      }
+    ],
+    "container-title": "IEEE Trans. Electron Devices",
+    "id": "flicker_construction_1964",
+    "issued": {
+      "date-parts": [
+        [
+          1964
+        ]
+      ]
+    },
+    "page": "2-8",
+    "title": "Construction of a promethium-147 atomic battery",
+    "type": "article-journal",
+    "volume": "11",
+    "tags": [
+      "Betavoltaics"
     ]
   },
   {
@@ -1184,6 +1448,62 @@
     ]
   },
   {
+    "author": [
+      {
+        "family": "Khernai",
+        "given": "N. P"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "Fusion Technol.",
+    "id": "khernai_tritiated_1995",
+    "issue": "1609",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "title": "Tritiated amorphous silicon for micropower applications",
+    "type": "article-journal",
+    "volume": "28",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kostesky",
+        "given": "T"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "J. Vac. Sci. Technol.",
+    "id": "kostesky_tritiated_1998",
+    "issue": "893",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "title": "Tritiated amorphous silicon films and devices",
+    "type": "article-journal",
+    "volume": "16",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1134/S0020441220040156",
     "ISSN": "1608-3180",
     "accessed": {
@@ -1307,6 +1627,34 @@
     "volume": "24",
     "tags": [
       "Gammavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Linder",
+        "given": "E. G"
+      },
+      {
+        "family": "Christian",
+        "given": "S. M"
+      }
+    ],
+    "container-title": "J. Appl. Phys.",
+    "id": "linder_use_1952",
+    "issue": "1213",
+    "issued": {
+      "date-parts": [
+        [
+          1952
+        ]
+      ]
+    },
+    "title": "The use of radioactive material for generation of high-voltage",
+    "type": "article-journal",
+    "volume": "23",
+    "tags": [
+      "Betavoltaics"
     ]
   },
   {
@@ -1859,6 +2207,127 @@
     ]
   },
   {
+    "author": [
+      {
+        "family": "Olsen",
+        "given": "L. C"
+      }
+    ],
+    "container-title": "Proc.",
+    "id": "olsen_advanced_1974",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "page": "754",
+    "title": "Advanced betavoltaic power sources",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olsen",
+        "given": "L. C"
+      }
+    ],
+    "container-title": "Energy Convers.",
+    "id": "olsen_betavoltaic_1973",
+    "issue": "117",
+    "issued": {
+      "date-parts": [
+        [
+          1973
+        ]
+      ]
+    },
+    "title": "Betavoltaic energy conversion",
+    "type": "article-journal",
+    "volume": "13",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olsen",
+        "given": "L. S"
+      }
+    ],
+    "id": "olsen_review_1992",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "256",
+    "publisher-place": "Cleveland, OH",
+    "title": "Review of betavoltaic energy conversion, in Proc",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olsen",
+        "given": "L. C"
+      }
+    ],
+    "container-title": "Proc.",
+    "id": "olsen_review_1992-1",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "256",
+    "publisher-place": "Cleveland",
+    "title": "Review of betavoltaic energy conversion",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pfann",
+        "given": "W. G"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Roosbroeck",
+        "given": "W"
+      }
+    ],
+    "container-title": "J. Appl. Phys.",
+    "id": "pfann_radioactive_1954",
+    "issued": {
+      "date-parts": [
+        [
+          1954
+        ]
+      ]
+    },
+    "page": "1422-1429",
+    "title": "Radioactive and photoelectric p-n junction power sources",
+    "type": "article-journal",
+    "volume": "25",
+    "tags": []
+  },
+  {
     "DOI": "10.1134/S1063782615060202",
     "ISSN": "1090-6479",
     "accessed": {
@@ -2001,6 +2470,62 @@
     "title-short": "Optimization of Silicon parameters as a betavoltaic battery",
     "type": "article-journal",
     "volume": "125",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rappaport",
+        "given": "P"
+      }
+    ],
+    "container-title": "Phys. Rev.",
+    "id": "rappaport_electron-voltaic_1953",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "page": "246",
+    "title": "The electron-voltaic effect in p-n junctions induced by beta particle bombardment",
+    "type": "article-journal",
+    "volume": "93",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rappaport",
+        "given": "P"
+      },
+      {
+        "family": "Loferski",
+        "given": "J. J"
+      },
+      {
+        "family": "Linder",
+        "given": "E. G"
+      }
+    ],
+    "container-title": "RCA Rev.",
+    "id": "rappaport_electron-voltaic_1956",
+    "issue": "100",
+    "issued": {
+      "date-parts": [
+        [
+          1956
+        ]
+      ]
+    },
+    "title": "The electron-voltaic effect in germanium and silicon p-n junctions",
+    "type": "article-journal",
+    "volume": "17",
     "tags": [
       "Betavoltaics"
     ]
@@ -2229,6 +2754,61 @@
     ]
   },
   {
+    "author": [
+      {
+        "family": "Sims",
+        "given": "P. E"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "Proc",
+    "id": "sims_gallium_1995",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "231",
+    "publisher-place": "Cleveland",
+    "title": "Gallium phosphide energy converters",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sims",
+        "given": "P. E"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "Proc",
+    "id": "sims_high_1994",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "publisher-place": "Cleveland",
+    "title": "High efficiency GaP power conversion for betavoltaic applications",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1002/pssa.201533060",
     "ISBN": "1862-6319",
     "ISSN": "18626319",
@@ -2348,6 +2928,110 @@
     "tags": [
       "Betavoltaics"
     ]
+  },
+  {
+    "author": [
+      {
+        "family": "Walka",
+        "given": "R. J"
+      }
+    ],
+    "id": "walka_tritium-fueled_1997",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "135",
+    "title": "Tritium-fueled beta cells, IEEE Proc",
+    "type": "paper-conference",
+    "volume": "6",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Walker",
+        "given": "G. H"
+      },
+      {
+        "family": "Conway",
+        "given": "E. J"
+      }
+    ],
+    "id": "walker_short_1978",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "page": "575",
+    "publisher": "Pergamon Press",
+    "publisher-place": "New York",
+    "title": "Short circuit current changes in electron irradiated GaAlAs/GaAs solar cells",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Walko",
+        "given": "R. J"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "Radioluminesent Lighting Technology Transfer Conference Proceedings",
+    "id": "walko_electronic_1990",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "publisher-place": "U.S. DOE, Annapolis, MD",
+    "title": "Electronic and photonic power applications",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Walko",
+        "given": "R. J"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "IEEE Proc.",
+    "id": "walko_tritium-fueled_1997",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "135-140",
+    "title": "Tritium-fueled beta cells",
+    "type": "paper-conference",
+    "volume": "6",
+    "tags": []
   },
   {
     "DOI": "10.1016/J.NIMB.2015.07.046",
