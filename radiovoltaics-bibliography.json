@@ -197,6 +197,16 @@
     ]
   },
   {
+    "URL": "https://www.tib.eu/en/search/id/tema:TEMA20021004474/Betavoltaic-cells-and-arrays-based-on-AlGaAs-GaAs",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Andreev",
@@ -244,32 +254,6 @@
     },
     "page": "817-818",
     "title": "Betavoltaic cells based on tritium and AlGaAs-GaAs heterojunctions",
-    "type": "paper-conference",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
-    "author": [
-      {
-        "family": "Andreev",
-        "given": "V. M"
-      },
-      {
-        "dropping-particle": "et",
-        "family": "al."
-      }
-    ],
-    "id": "andreev_tritium-powered_2000",
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "publisher-place": "Anchorage, AK",
-    "title": "Tritium-powered beta cells based on A1x Ga1-x As, Proc",
     "type": "paper-conference",
     "tags": [
       "Betavoltaics"
