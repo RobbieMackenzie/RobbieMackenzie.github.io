@@ -260,6 +260,33 @@
     ]
   },
   {
+    "DOI": "10.1109/PVSC.2000.916117",
+    "author": [
+      {
+        "family": "Andreev",
+        "given": "V. M"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "id": "andreev_tritium-powered_2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher-place": "Anchorage, AK",
+    "title": "Tritium-powered beta cells based on A1x Ga1-x As, Proc",
+    "type": "paper-conference",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
     "author": [
       {
         "family": "Anno",
@@ -821,6 +848,7 @@
     ]
   },
   {
+    "DOI": "10.1109/PVSC.2000.916115",
     "author": [
       {
         "family": "Deus",
@@ -1026,6 +1054,7 @@
     ]
   },
   {
+    "DOI": "10.1088/0370-1298/64/4/109",
     "author": [
       {
         "family": "Ehrenberg",
@@ -1036,7 +1065,7 @@
         "family": "al."
       }
     ],
-    "container-title": "Proc",
+    "container-title": "Proceedings of the physical society. Section a",
     "id": "ehrenberg_electron_1951",
     "issued": {
       "date-parts": [
@@ -1108,6 +1137,7 @@
     "tags": []
   },
   {
+    "DOI": "10.1109/T-ED.1964.15271",
     "author": [
       {
         "family": "Flicker",
@@ -1432,34 +1462,7 @@
     ]
   },
   {
-    "author": [
-      {
-        "family": "Khernai",
-        "given": "N. P"
-      },
-      {
-        "dropping-particle": "et",
-        "family": "al."
-      }
-    ],
-    "container-title": "Fusion Technol.",
-    "id": "khernai_tritiated_1995",
-    "issue": "1609",
-    "issued": {
-      "date-parts": [
-        [
-          1995
-        ]
-      ]
-    },
-    "title": "Tritiated amorphous silicon for micropower applications",
-    "type": "article-journal",
-    "volume": "28",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
+    "DOI": "10.1116/1.581031",
     "author": [
       {
         "family": "Kostesky",
@@ -1611,34 +1614,6 @@
     "volume": "24",
     "tags": [
       "Gammavoltaics"
-    ]
-  },
-  {
-    "author": [
-      {
-        "family": "Linder",
-        "given": "E. G"
-      },
-      {
-        "family": "Christian",
-        "given": "S. M"
-      }
-    ],
-    "container-title": "J. Appl. Phys.",
-    "id": "linder_use_1952",
-    "issue": "1213",
-    "issued": {
-      "date-parts": [
-        [
-          1952
-        ]
-      ]
-    },
-    "title": "The use of radioactive material for generation of high-voltage",
-    "type": "article-journal",
-    "volume": "23",
-    "tags": [
-      "Betavoltaics"
     ]
   },
   {
@@ -2191,13 +2166,14 @@
     ]
   },
   {
+    "URL": "https://inis.iaea.org/records/2wstb-rhc66",
     "author": [
       {
         "family": "Olsen",
         "given": "L. C"
       }
     ],
-    "container-title": "Proc.",
+    "container-title": "American society of mechanical engineers",
     "id": "olsen_advanced_1974",
     "issued": {
       "date-parts": [
@@ -2214,6 +2190,7 @@
     ]
   },
   {
+    "DOI": "10.1016/0013-7480(73)90010-7",
     "author": [
       {
         "family": "Olsen",
@@ -2238,6 +2215,7 @@
     ]
   },
   {
+    "URL": "https://api.semanticscholar.org/CorpusID:17917779",
     "author": [
       {
         "family": "Olsen",
@@ -2254,7 +2232,7 @@
     },
     "page": "256",
     "publisher-place": "Cleveland, OH",
-    "title": "Review of betavoltaic energy conversion, in Proc",
+    "title": "Review of betavoltaic energy conversion",
     "type": "paper-conference",
     "tags": [
       "Betavoltaics"
@@ -2285,6 +2263,7 @@
     ]
   },
   {
+    "DOI": "10.1063/1.1721579",
     "author": [
       {
         "family": "Pfann",
@@ -2459,6 +2438,7 @@
     ]
   },
   {
+    "DOI": "https://doi.org/10.1103/PhysRev.93.246.2",
     "author": [
       {
         "family": "Rappaport",
