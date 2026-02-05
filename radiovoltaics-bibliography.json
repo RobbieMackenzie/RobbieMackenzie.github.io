@@ -3043,5 +3043,57 @@
     "tags": [
       "Betavoltaics"
     ]
+  },
+  {
+    "DOI": "10.1016/j.jpowsour.2025.239161",
+    "ISSN": "0378-7753",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Yingying"
+      },
+      {
+        "family": "Zhao",
+        "given": "Chen"
+      },
+      {
+        "family": "Li",
+        "given": "Haibin"
+      },
+      {
+        "family": "Liu",
+        "given": "Yinke"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yiying"
+      }
+    ],
+    "container-title": "Journal of Power Sources",
+    "id": "zhaoHighOutputPower2026",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "Energy conversion efficiency,High output power,Isotope battery,Stacked structure,X-ray-voltaic battery",
+    "page": "239161",
+    "title": "High output power 109Cd-X-ray-voltaic batteries with stacked energy conversion units",
+    "type": "article-journal",
+    "volume": "666",
+    "tags": [
+      "Gammavoltaics"
+    ]
   }
 ]
