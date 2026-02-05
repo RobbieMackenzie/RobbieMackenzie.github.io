@@ -22,7 +22,7 @@
     },
     "keyword": "betavoltaic battery,nuclear battery,radioisotope battery",
     "page": "11-41",
-    "title": "Principles of Betavoltaic Battery Design",
+    "title": "Principles of betavoltaic battery design",
     "type": "article-journal",
     "volume": "3",
     "tags": [
@@ -179,7 +179,7 @@
         "given": "V. M"
       }
     ],
-    "genre": "Ioffe {Institute} {Report}",
+    "genre": "Ioffe Institute Report",
     "id": "andreev_advanced_2000",
     "issued": {
       "date-parts": [
@@ -190,7 +190,7 @@
     },
     "publisher": "Ioffe Institute",
     "publisher-place": "St Perersburg, Russia",
-    "title": "Advanced beta cell and low-intensity photovoltaic cells and arrays based on 111-V compounds",
+    "title": "Advanced beta cell and low-intensity photovoltaic cells and arrays based on 111-v compounds",
     "type": "report",
     "tags": [
       "Betavoltaics"
@@ -228,32 +228,6 @@
     "page": "817",
     "publisher-place": "Sapporo",
     "title": "Betavoltaic cells based on tritium and AlGaAs/GaAs heterostructures",
-    "type": "paper-conference",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
-    "author": [
-      {
-        "family": "Andreev",
-        "given": "V. M"
-      },
-      {
-        "dropping-particle": "et",
-        "family": "al."
-      }
-    ],
-    "id": "andreev_betavoltaic_1999-1",
-    "issued": {
-      "date-parts": [
-        [
-          1999
-        ]
-      ]
-    },
-    "page": "817-818",
-    "title": "Betavoltaic cells based on tritium and AlGaAs-GaAs heterojunctions",
     "type": "paper-conference",
     "tags": [
       "Betavoltaics"
@@ -347,80 +321,6 @@
     "page": "106-109",
     "title": "Photovoltaic development for alpha voltaic batteries",
     "type": "paper-conference",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
-    "DOI": "10.1002/pssa.201532214",
-    "ISBN": "0033-8419",
-    "ISSN": "18626319",
-    "PMID": "16714465",
-    "author": [
-      {
-        "family": "Bormashov",
-        "given": "Vitaly"
-      },
-      {
-        "family": "Troschiev",
-        "given": "Sergey"
-      },
-      {
-        "family": "Volkov",
-        "given": "Alexander"
-      },
-      {
-        "family": "Tarelkin",
-        "given": "Sergey"
-      },
-      {
-        "family": "Korostylev",
-        "given": "Eugeniy"
-      },
-      {
-        "family": "Golovanov",
-        "given": "Anton"
-      },
-      {
-        "family": "Kuznetsov",
-        "given": "Mikhail"
-      },
-      {
-        "family": "Teteruk",
-        "given": "Dmitry"
-      },
-      {
-        "family": "Kornilov",
-        "given": "Nikolay"
-      },
-      {
-        "family": "Terentiev",
-        "given": "Sergey"
-      },
-      {
-        "family": "Buga",
-        "given": "Sergey"
-      },
-      {
-        "family": "Blank",
-        "given": "Vladimir"
-      }
-    ],
-    "container-title": "physica status solidi (a)",
-    "id": "Bormashov2015a",
-    "issue": "11",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "keyword": "betavoltaics,nuclear microbatteries,Schottky diodes,synthetic diamond",
-    "page": "2539-2547",
-    "title": "Development of nuclear microbattery prototype based on Schottky barrier diamond diodes",
-    "type": "article-journal",
-    "volume": "212",
     "tags": [
       "Betavoltaics"
     ]
@@ -864,7 +764,7 @@
       ]
     },
     "publisher-place": "Anchorage, AK",
-    "title": "Alpha and betavoltaic cells based on amorphous silicon, Proc",
+    "title": "Alpha and betavoltaic cells based on amorphous silicon",
     "type": "paper-conference",
     "tags": [
       "Alphavoltaics",
@@ -934,7 +834,7 @@
     "keyword": "Devices for energy harvesting,Mechanical engineering,Nuclear waste",
     "page": "1-6",
     "publisher": "Nature Publishing Group",
-    "title": "Evaluation of a Silicon 90Sr Betavoltaic Power Source",
+    "title": "Evaluation of a silicon 90Sr betavoltaic power source",
     "type": "article-journal",
     "volume": "6",
     "tags": [
@@ -943,68 +843,16 @@
   },
   {
     "DOI": "10.1126/science.aaa5760",
-    "ISSN": "10959203",
+    "URL": "https://www.science.org/doi/abs/10.1126/science.aaa5760",
     "accessed": {
       "date-parts": [
         [
-          2020,
-          6,
-          5
+          2026,
+          2,
+          4
         ]
       ]
     },
-    "author": [
-      {
-        "family": "Dong",
-        "given": "Qingfeng"
-      },
-      {
-        "family": "Fang",
-        "given": "Yanjun"
-      },
-      {
-        "family": "Shao",
-        "given": "Yuchuan"
-      },
-      {
-        "family": "Mulligan",
-        "given": "Padhraic"
-      },
-      {
-        "family": "Qiu",
-        "given": "Jie"
-      },
-      {
-        "family": "Cao",
-        "given": "Lei"
-      },
-      {
-        "family": "Huang",
-        "given": "Jinsong"
-      }
-    ],
-    "container-title": "Science",
-    "id": "Dong2015",
-    "issue": "6225",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "page": "967-970",
-    "publisher": "American Association for the Advancement of Science",
-    "title": "Electron-hole diffusion lengths $>$ 175 $\\mu$m in solution-grown CH3NH3PbI3 single crystals",
-    "type": "article-journal",
-    "volume": "347",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
-    "DOI": "10.1126/science.aaa5760",
-    "URL": "https://www.science.org/doi/abs/10.1126/science.aaa5760",
     "author": [
       {
         "family": "Dong",
@@ -1083,6 +931,7 @@
     ]
   },
   {
+    "DOI": "https://doi.org/10.1063/1.1290972",
     "URL": "https://hdl.handle.net/2014/18494",
     "accessed": {
       "date-parts": [
@@ -1134,7 +983,9 @@
     "publisher": "NASA Jet Propulsion Laboratory",
     "title": "Miniaturized radioisotope solid state power sources",
     "type": "report",
-    "tags": []
+    "tags": [
+      "Alphavoltaics"
+    ]
   },
   {
     "DOI": "10.1109/T-ED.1964.15271",
@@ -1462,6 +1313,35 @@
     ]
   },
   {
+    "DOI": "10.13182/FST95-A30642",
+    "author": [
+      {
+        "family": "Khernai",
+        "given": "N. P"
+      },
+      {
+        "dropping-particle": "et",
+        "family": "al."
+      }
+    ],
+    "container-title": "Fusion Technology",
+    "id": "khernai_tritiated_1995",
+    "issue": "1609",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "title": "Tritiated amorphous silicon for micropower applications",
+    "type": "article-journal",
+    "volume": "28",
+    "tags": [
+      "Betavoltaics"
+    ]
+  },
+  {
     "DOI": "10.1116/1.581031",
     "author": [
       {
@@ -1614,6 +1494,35 @@
     "volume": "24",
     "tags": [
       "Gammavoltaics"
+    ]
+  },
+  {
+    "DOI": "10.1063/1.1702034",
+    "author": [
+      {
+        "family": "Linder",
+        "given": "E. G"
+      },
+      {
+        "family": "Christian",
+        "given": "S. M"
+      }
+    ],
+    "container-title": "J. Appl. Phys.",
+    "id": "linder_use_1952",
+    "issue": "1213",
+    "issued": {
+      "date-parts": [
+        [
+          1952
+        ]
+      ]
+    },
+    "title": "The use of radioactive material for generation of high-voltage",
+    "type": "article-journal",
+    "volume": "23",
+    "tags": [
+      "Betavoltaics"
     ]
   },
   {
@@ -1989,53 +1898,6 @@
   },
   {
     "DOI": "10.1021/acs.jpcc.5b07876",
-    "accessed": {
-      "date-parts": [
-        [
-          2020,
-          6,
-          2
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Náfrádi",
-        "given": "Balínt"
-      },
-      {
-        "family": "Náfrádi",
-        "given": "Gábor"
-      },
-      {
-        "family": "László",
-        "given": "Forró"
-      },
-      {
-        "family": "Horváth",
-        "given": "Endre"
-      }
-    ],
-    "container-title": "Journal of Physical Chemistry C",
-    "id": "Nafradi2015",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "page": "25204-25208",
-    "publisher": "UTC",
-    "title": "Methylammonium Lead Iodide for Efficient X-ray Energy Conversion",
-    "type": "article-journal",
-    "volume": "119",
-    "tags": [
-      "Gammavoltaics"
-    ]
-  },
-  {
-    "DOI": "10.1021/acs.jpcc.5b07876",
     "ISSN": "1932-7447",
     "URL": "https://doi.org/10.1021/acs.jpcc.5b07876",
     "author": [
@@ -2158,8 +2020,8 @@
     "id": "Olsen",
     "publisher": "City Labs, Inc.",
     "publisher-place": "Homestead, FL",
-    "title": "Betavoltaic Batteries: A Historical Review",
-    "title-short": "Betavoltaic Batteries",
+    "title": "Betavoltaic batteries: A historical review",
+    "title-short": "Betavoltaic batteries",
     "type": "",
     "tags": [
       "Betavoltaics"
@@ -2167,6 +2029,15 @@
   },
   {
     "URL": "https://inis.iaea.org/records/2wstb-rhc66",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Olsen",
@@ -2216,6 +2087,15 @@
   },
   {
     "URL": "https://api.semanticscholar.org/CorpusID:17917779",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Olsen",
@@ -2232,30 +2112,6 @@
     },
     "page": "256",
     "publisher-place": "Cleveland, OH",
-    "title": "Review of betavoltaic energy conversion",
-    "type": "paper-conference",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
-    "author": [
-      {
-        "family": "Olsen",
-        "given": "L. C"
-      }
-    ],
-    "container-title": "Proc.",
-    "id": "olsen_review_1992-1",
-    "issued": {
-      "date-parts": [
-        [
-          1992
-        ]
-      ]
-    },
-    "page": "256",
-    "publisher-place": "Cleveland",
     "title": "Review of betavoltaic energy conversion",
     "type": "paper-conference",
     "tags": [
@@ -2328,69 +2184,6 @@
     "title": "Study of the properties of silicon-based semiconductor converters for betavoltaic cells",
     "type": "article-journal",
     "volume": "49",
-    "tags": [
-      "Betavoltaics"
-    ]
-  },
-  {
-    "DOI": "10.1088/0256-307X/25/10/076",
-    "accessed": {
-      "date-parts": [
-        [
-          2021,
-          7,
-          27
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Qiao",
-        "given": "Da-Yong"
-      },
-      {
-        "family": "Yuan",
-        "given": "Wei-Zheng"
-      },
-      {
-        "family": "Peng",
-        "given": "Gao"
-      },
-      {
-        "family": "Xian-Wang",
-        "given": "Yao"
-      },
-      {
-        "family": "Zang",
-        "given": "Bo"
-      },
-      {
-        "family": "Lin",
-        "given": "Zhang"
-      },
-      {
-        "family": "Hui",
-        "given": "Guo"
-      },
-      {
-        "family": "Zhang",
-        "given": "Hong-Jian"
-      }
-    ],
-    "container-title": "Chinese Physics Letters",
-    "id": "Qiao2008",
-    "issue": "10",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "page": "3798",
-    "title": "Demonstration of a 4H SiC Betavoltaic Nuclear Battery Based on Schottky Barrier Diode *",
-    "type": "article-journal",
-    "volume": "25",
     "tags": [
       "Betavoltaics"
     ]
@@ -2694,6 +2487,7 @@
     ]
   },
   {
+    "DOI": "10.6028/jres.064A.029",
     "author": [
       {
         "family": "Scharf",
@@ -2718,6 +2512,16 @@
     ]
   },
   {
+    "URL": "https://ntrs.nasa.gov/citations/19960007901",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Sims",
@@ -2728,7 +2532,7 @@
         "family": "al."
       }
     ],
-    "container-title": "Proc",
+    "container-title": "NASA. Lewis research center, proceedings of the 14th space photovoltaic research and technology conference (SPRAT 14)",
     "id": "sims_gallium_1995",
     "issued": {
       "date-parts": [
@@ -2746,6 +2550,16 @@
     ]
   },
   {
+    "URL": "https://ntrs.nasa.gov/citations/19950014124",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Sims",
@@ -2756,7 +2570,7 @@
         "family": "al."
       }
     ],
-    "container-title": "Proc",
+    "container-title": "NASA. Lewis research center, proceedings of the 13th space photovoltaic research and technology conference (SPRAT 13)",
     "id": "sims_high_1994",
     "issued": {
       "date-parts": [
@@ -2894,6 +2708,16 @@
     ]
   },
   {
+    "URL": "https://www.osti.gov/servlets/purl/5582186",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Walka",
@@ -2917,6 +2741,16 @@
     ]
   },
   {
+    "URL": "https://ntrs.nasa.gov/citations/19790056961",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Walker",
@@ -2945,6 +2779,16 @@
     ]
   },
   {
+    "URL": "https://www.osti.gov/biblio/6669349/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Walko",
@@ -2970,32 +2814,6 @@
     "tags": [
       "Betavoltaics"
     ]
-  },
-  {
-    "author": [
-      {
-        "family": "Walko",
-        "given": "R. J"
-      },
-      {
-        "dropping-particle": "et",
-        "family": "al."
-      }
-    ],
-    "container-title": "IEEE Proc.",
-    "id": "walko_tritium-fueled_1997",
-    "issued": {
-      "date-parts": [
-        [
-          1997
-        ]
-      ]
-    },
-    "page": "135-140",
-    "title": "Tritium-fueled beta cells",
-    "type": "paper-conference",
-    "volume": "6",
-    "tags": []
   },
   {
     "DOI": "10.1016/J.NIMB.2015.07.046",
@@ -3055,6 +2873,7 @@
     ]
   },
   {
+    "DOI": "10.2172/850408",
     "author": [
       {
         "family": "White",
@@ -3084,7 +2903,7 @@
     "number": "DE-FG07-04ID14603",
     "publisher": "University of Massachusetts Lowell",
     "publisher-place": "UMass-Lowell Radiation Laboratory",
-    "title": "Novel Nuclear Powered Photocatalytic Energy Conversion",
+    "title": "Novel nuclear powered photocatalytic energy conversion",
     "type": "report",
     "tags": [
       "Gammavoltaics"
