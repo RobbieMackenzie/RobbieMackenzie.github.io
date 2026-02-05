@@ -10,6 +10,7 @@
   <meta name="description" content="Searchable, filterable bibliography.">
 
   <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
   <header class="container">
@@ -72,9 +73,17 @@
         <label><input type="checkbox" value="Gammavoltaics"> Gammavoltaics</label>
       </fieldset>
 
-      <div id="count" class="muted"></div>
-    </section>
 
+    <!-- Histogram -->
+    <section aria-labelledby="histogram-title">
+      <h2 id="histogram-title">Publications by Year</h2>
+      <div style="max-width: 600px; margin: 0 auto;">
+        <canvas id="yearHistogram"></canvas>
+      </div>
+    </section>
+s id=\"yearHistogram\"></canvas>
+      </div>
+    </section>
     <!-- Entries -->
     <section aria-labelledby="results-title">
       <h2 id="results-title" class="sr-only">Results</h2>

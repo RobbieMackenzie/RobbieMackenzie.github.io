@@ -112,8 +112,9 @@ function render(entries) {
 
 
 let ALL = [];
+let chartInstance = null;
 
-function applyFilters() {
+function getFilteredEntries() {
   const q = norm($('#search').value);
   const y = $('#yearFilter').value;
   const checkedTags = Array.from(document.querySelectorAll('#tagFilter input[type=checkbox]:checked'))
@@ -139,9 +140,75 @@ function applyFilters() {
     out = out.filter(e => (e.tags || []).some(t => checkedTags.includes(t)));
   }
 
+  return out;
+}
+
+function updateHistogram(entries) {
+  const yearCounts = {};
+  entries.forEach(e => {
+    if (e.year) {
+      yearCounts[e.year] = (yearCounts[e.year] || 0) + 1;
+    }
+  });
+
+  const sortedYears = Object.keys(yearCounts).sort((a, b) => b.localeCompare(a));
+  const counts = sortedYears.map(y => yearCounts[y]);
+
+  const ctx = $('#yearHistogram');
+  if (!ctx) return;
+
+  if (chartInstance) {
+    chartInstance.data.labels = sortedYears;
+    chartInstance.data.datasets[0].data = counts;
+    chartInstance.update();
+  } else {
+    chartInstance = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: sortedYears,
+        datasets: [{
+          label: 'Number of Publications',
+          data: counts,
+          backgroundColor: 'rgba(75, 129, 192, 0.7)',
+          borderColor: 'rgba(75, 129, 192, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: true,
+        plugins: {
+          legend: {
+            display: false
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Count'
+            }
+          },
+          x: {
+            title: {
+              display: true,
+              text: 'Year'
+            }
+          }
+        }
+      }
+    });
+  }
+}
+
+function applyFilters() {
+  const out = getFilteredEntries();
+
   // Sort: newest first, then title
   out.sort((a, b) => (b.year || '').localeCompare(a.year || '') || (a.title || '').localeCompare(b.title || ''));
   render(out);
+  updateHistogram(out);
 }
 
 loadData().then(entries => {
